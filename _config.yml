@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Guanglin Niu"
 description              : "Assistant Professor, School of Artificial Intelligence, Beihang University, China"
-repository               : "ngl567/nglbuaa.github.io"
+repository               : "ngl567/ngl567.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ibL7gEcAAAAJ"
   email            : "beihangngl@buaa.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Guanglin-Niu-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : https://dblp.org/pid/240/6876.html
+  dblp             : "https://dblp.org/pid/240/6876.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
