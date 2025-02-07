@@ -1,5 +1,6 @@
 # 📎 Homepages
-- Personal Pages: https://rayeren.github.io (updated recently🔥)
-- Linkedin: https://www.linkedin.com/in/rayeren
-- Google Scholar: https://scholar.google.com/citations?user=4FA6C0AAAAAJ
-- DBLP: https://dblp.org/pid/75/6568-6.html
+- Personal Pages: https://ngl567.github.io/ (updated recently🔥)
+- Google Scholar: https://scholar.google.com/citations?user=ibL7gEcAAAAJ
+- DBLP: https://dblp.org/pid/240/6876.html
+- Researchgate: https://www.researchgate.net/profile/Guanglin-Niu-3
+- Beihang University: https://shi.buaa.edu.cn/niuguanglin/zh_CN/index.htm | https://iai.buaa.edu.cn/info/1013/2171.htm
