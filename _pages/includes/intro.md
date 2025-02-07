@@ -6,4 +6,6 @@ My research interests lie within the Knowledge Graph, Computer Vision, and Large
 
 I am committed to exploring joint data and knowledge-driven techniques in the research field of artificial intelligence. I am currently leading various projects, including the National Natural Science Foundation of China (NSFC) project titled "Commonsense-Guided Trustworthy Knowledge Graph Reasoning Approach", as well as research-industry collaboration projects on "Cross-Temporal and Spatial Target Association in Complex Scenarios".
 
+I founded the WeChat public Platform Artificial Intelligence Meets Knowledge Graph (人工智能遇上知识图谱) with 3,000+ followers, where I share advanced technologies in the field of artificial intelligence especially knowledge graph.
+
 Our group has positions for self-motivated PhD students, Master students, and visiting students, please feel free to email me at [beihangngl@buaa.edu.cn](mailto:beihangngl@buaa.edu.cn).
