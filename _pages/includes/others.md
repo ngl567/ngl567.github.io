@@ -1,19 +1,17 @@
-
 # 📖 Educations
-- *2019.06 - 2022.04*, Master, Zhejiang University, Hangzhou.
-- *2015.09 - 2019.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
-- *2012.09 - 2015.06*, Luqiao Middle School, Taizhou.
+- *2017.08 - 2022.06*, Ph.D., School of Computer Science and Engineering, Beihang University, Beijing, China.
+- *2015.09 - 2017.06*, Master, School of Automation Science and Electrical Engineering, Beihang University, Beijing, China.
+- *2011.09 - 2015.06*, Bachelor, Department of Automation, Beijing Institute of Technology, Beijing, China.
+- *2008.09 - 2011.06*, The High School Attached to Northwest Normal University, Lanzhou, Gansu, China.
 
 # 💬 Invited Talks
-- *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
-- *2021.06*, Audio & Speech Synthesis, Huawei internal talk
-- *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
-- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk
+- *2022.10*, Explainable Neural-Symbolic Knowledge Graph Reasoning, MLNLP学术Talk \| [\[video\]](https://www.bilibili.com/video/BV1zV4y1V7j4/)
+- *2022.04*, A Joint Commonsense and Fact-Driven Knowledge Graph Reasoning Framework, AI Time \| [\[video\]](https://www.bilibili.com/video/BV1Q44y1g78Z/)
+- *2020.12*, Automated Entity Type Representation Learning for Knowledge Graph Embedding, Student Forums on Frontiers of Artificial Intelligence (SFFAI) \| [\[video\]](https://www.bilibili.com/video/av590645807/)
+- *2019.12*, Rule-Guided Compositional Representation Learning on Knowledge Graphs, Alibaba Group \| [\[video\]](https://developer.aliyun.com/live/1856)
 
-# 💻 Internships
-- *2021.06 - 2021.09*, Alibaba, Hangzhou.
-- *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
-- *2019.02 - 2019.05*, [YiWise](https://www.yiwise.com/), Hangzhou.
-- *2018.08 - 2019.02*, [MSRA, machine learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Beijing.
-- *2018.01 - 2018.06*, [NetEase, AI department](https://hr.163.com/zc/12-ai/index.html), Hangzhou.
-- *2017.08 - 2018.12*, DashBase (acquired by [Cisco](https://blogs.cisco.com/news/349511)), Hangzhou.
+# 🎙️ Media Coverage
+- [常识和事实联合驱动的知识图谱推理框架](https://mp.weixin.qq.com/s/xQ625k_2kYXerZtO6M8mGg), AI Time
+- [近期必读的六篇 EMNLP 2020【知识图谱】相关论文和代码](https://mp.weixin.qq.com/s/bU6Y42250GLmXiRzi8N1Wg), 专知人工智能前沿讲习
+- [AAAI 2020 | 这 10 篇论文值得你了解（附PPT下载）](https://www.leiphone.com/news/201912/5yfuCAlZlbFDypnH.html), 雷锋网
+- [论文浅尝 | AAAI2020 - 基于规则的知识图谱组合表征学习](https://mp.weixin.qq.com/s/tsXKwgbd2Z0XZcZZD2wcwQ), 开放知识图谱
