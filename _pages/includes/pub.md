@@ -28,7 +28,7 @@ _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023_
 
   - This work LCGE is the first to introduce temporal rules into temporal knowledge graph completion models.
   - LCGE models each event from the perspectives of both the time-sensitive representation and the commonsense.
-  - Our work is promoted by some media and forums, such as [AI Time青年科学家论坛](https://mp.weixin.qq.com/s/GP_S9U4EWJD0JGZcdJO3lg).
+  - Our work is promoted by some forums, such as [AI Time青年科学家论坛](https://mp.weixin.qq.com/s/GP_S9U4EWJD0JGZcdJO3lg).
 
 📃[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/25579)     💾[**Code**](https://github.com/ngl567/LCGE) ![img](https://img.shields.io/github/stars/ngl567/LCGE?style=social)
 </div>
