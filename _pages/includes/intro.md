@@ -1,4 +1,4 @@
-I am currently an assistant professor at the School of Artificial Intelligence <img src='./images/SAI.png' style='width: 6em;'> at Beihang University <img src='./images/buaa.png' style='width: 6em;'> in China.
+I am currently an assistant professor at the School of Artificial Intelligence <img src='./images/SAI.png' style='width: 2em;'> at Beihang University <img src='./images/buaa.png' style='width: 2em;'> in China.
 
 I graduated from [Department of Automation](https://ac.bit.edu.cn/index.htm), Beijing Institute of Technology (北京理工大学自动化学院) with a bachelor's degree and from the [School of Computer Science and Engineering](http://scse.buaa.edu.cn/), Beihang University (北京航空航天大学计算机学院) with a Ph.D. degree, advised by Professor [Bo Li (李波)](http://scse.buaa.edu.cn/info/1078/5211.htm). I have been the Research Intership in the Qwen Team of [DAMO Academy, Alibaba Group](https://damo.alibaba.com/). To promote the communication among the Chinese ML & NLP community, I am honored to serve as the Publicity Chair for the [2nd MLNLP Conference](https://mlnlp.org/mlnlp2023/) in 2023.
 
