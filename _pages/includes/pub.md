@@ -38,7 +38,7 @@ _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023_
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='images/cake.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CAKE: A Scalable Commonsense-Aware Framework For Multi-View Knowledge Graph Completion](https://aclanthology.org/2022.acl-long.205) \\
+[CAKE: A Scalable Commonsense-Aware Framework For Multi-View Knowledge Graph Completion](https://aclanthology.org/2022.acl-long.205) <strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:3fE2CSJIrl8C'></span></strong> \\
 **Guanglin Niu**, Bo Li, Yongfei Zhang, Shiliang Pu
 
 _Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (ACL), 2022_
@@ -47,7 +47,7 @@ _Proceedings of the 60th Annual Meeting of the Association for Computational Lin
   - CAKE consists of an automatic commonsense generation mechanism, a commonsense-aware negative sampling strategy and a multi-view link prediction mechanism.
   - Our work is promoted by several media and forums, such as [AI Time 视频](https://www.bilibili.com/video/BV1Q44y1g78Z/) \| [AI Time 解读](https://mp.weixin.qq.com/s/xQ625k_2kYXerZtO6M8mGg)、[专知](https://www.zhuanzhi.ai/document/5648511d67d6e512eb3521ac47d763d4)、[智源社区](https://hub.baai.ac.cn/view/19366)、[开放知识图谱](https://mp.weixin.qq.com/s/1wVS2aJd6ddyPkvZHx3Lrw)、[AMiner](https://www.aminer.cn/research_report/627c81397cb68b460fb6063d).
 
-📃[**Paper**](https://aclanthology.org/2022.acl-long.205.pdf)     💾[**Code**](https://github.com/ngl567/CAKE) ![img](https://img.shields.io/github/stars/ngl567/CAKE?style=social) <strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:3fE2CSJIrl8C'></span></strong>
+📃[**Paper**](https://aclanthology.org/2022.acl-long.205.pdf)     💾[**Code**](https://github.com/ngl567/CAKE) ![img](https://img.shields.io/github/stars/ngl567/CAKE?style=social)
 </div>
 </div>
 
@@ -55,7 +55,7 @@ _Proceedings of the 60th Annual Meeting of the Association for Computational Lin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2021</div><img src='images/gana.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Relational Learning with Gated and Attentive Neighbor Aggregator for Few-Shot Knowledge Graph Completion](https://dl.acm.org/doi/10.1145/3404835.3462925) \\
+[Relational Learning with Gated and Attentive Neighbor Aggregator for Few-Shot Knowledge Graph Completion](https://dl.acm.org/doi/10.1145/3404835.3462925) <strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:WF5omc3nYNoC'></span></strong> \\
 **Guanglin Niu**, Yang Li, Chengguang Tang, Ruiying Geng, Jian Dai, Qiao Liu, Hao Wang, Jian Sun, Fei Huang, Luo Si
 
 _Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2021_
@@ -64,7 +64,7 @@ _Proceedings of the 44th International ACM SIGIR Conference on Research and Deve
   - GANA is one of the most representative models and always selected as the baseline on few-show knowledge graph completion tasks.
   - This work was conducted in collaboration with Qwen team. Our work is promoted by some media and forums, such as [专知](https://www.zhuanzhi.ai/document/01403034427fa0520e958ee1fe4afc56).
 
-📃[**Paper**](https://arxiv.org/pdf/2104.13095)     💾[**Code**](https://github.com/ngl567/GANA-FewShotKGC) ![img](https://img.shields.io/github/stars/ngl567/GANA-FewShotKGC?style=social) <strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:WF5omc3nYNoC'></span></strong>
+📃[**Paper**](https://arxiv.org/pdf/2104.13095)     💾[**Code**](https://github.com/ngl567/GANA-FewShotKGC) ![img](https://img.shields.io/github/stars/ngl567/GANA-FewShotKGC?style=social)
 </div>
 </div>
 
@@ -72,7 +72,7 @@ _Proceedings of the 44th International ACM SIGIR Conference on Research and Deve
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2020</div><img src='images/rpje.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Rule-Guided Compositional Representation Learning on Knowledge Graphs](https://ojs.aaai.org//index.php/AAAI/article/view/5687) \\
+[Rule-Guided Compositional Representation Learning on Knowledge Graphs](https://ojs.aaai.org//index.php/AAAI/article/view/5687) <strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:IjCSPb-OGe4C'></span></strong> \\
 **Guanglin Niu**, Yongfei Zhang, Bo Li, Peng Cui, Si Liu, Jingyang Li and Xiaowei Zhang
 
 _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020_
@@ -80,7 +80,7 @@ _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020_
   - This work is the first attempt to integrate logic rules with paths for KG embedding, endowing our model with both the explainability from semantic level and the generalization from data level.
   - Our work is promoted by several media and forums, such as [开放知识图谱](https://mp.weixin.qq.com/s/tsXKwgbd2Z0XZcZZD2wcwQ)、[雷锋网](https://www.leiphone.com/news/201912/5yfuCAlZlbFDypnH.html)、[SAAI](https://zhuanlan.zhihu.com/p/137519588)、[MLNLP](https://www.bilibili.com/video/BV1zV4y1V7j4/). Particularly, our research was recognized as one of the representative studies in the field of neuro-symbolic knowledge graph reasoning at ([CCKS 2021](https://event-cdn.baai.ac.cn/live/20211228-01/Session4.mp4)).
 
-📃[**Paper**](https://ojs.aaai.org//index.php/AAAI/article/view/5687)     💾[**Code**](https://github.com/ngl567/RPJE) ![img](https://img.shields.io/github/stars/ngl567/RPJE?style=social) <strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:IjCSPb-OGe4C'></span></strong>
+📃[**Paper**](https://ojs.aaai.org//index.php/AAAI/article/view/5687)     💾[**Code**](https://github.com/ngl567/RPJE) ![img](https://img.shields.io/github/stars/ngl567/RPJE?style=social)
 </div>
 </div>
 
