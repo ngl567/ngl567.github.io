@@ -72,7 +72,8 @@ _Proceedings of the 44th International ACM SIGIR Conference on Research and Deve
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2020</div><img src='images/rpje.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Rule-Guided Compositional Representation Learning on Knowledge Graphs](https://ojs.aaai.org//index.php/AAAI/article/view/5687) <strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:IjCSPb-OGe4C'></span></strong> \\
+[Rule-Guided Compositional Representation Learning on Knowledge Graphs](https://ojs.aaai.org//index.php/AAAI/article/view/5687)
+<strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:IjCSPb-OGe4C'></span></strong> \\
 **Guanglin Niu**, Yongfei Zhang, Bo Li, Peng Cui, Si Liu, Jingyang Li and Xiaowei Zhang
 
 _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020_
@@ -81,6 +82,39 @@ _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020_
   - Our work is promoted by several media and forums, such as [开放知识图谱](https://mp.weixin.qq.com/s/tsXKwgbd2Z0XZcZZD2wcwQ)、[雷锋网](https://www.leiphone.com/news/201912/5yfuCAlZlbFDypnH.html)、[SAAI](https://zhuanlan.zhihu.com/p/137519588)、[MLNLP](https://www.bilibili.com/video/BV1zV4y1V7j4/). Particularly, our research was recognized as one of the representative studies in the field of neuro-symbolic knowledge graph reasoning at ([CCKS 2021](https://event-cdn.baai.ac.cn/live/20211228-01/Session4.mp4)).
 
 📃[**Paper**](https://ojs.aaai.org//index.php/AAAI/article/view/5687)     💾[**Code**](https://github.com/ngl567/RPJE) ![img](https://img.shields.io/github/stars/ngl567/RPJE?style=social)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2020 Findings</div><img src='images/autoeter.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AutoETER: Automated Entity Type Representation with Relation-Aware Attention for Knowledge Graph Embedding](https://www.aclweb.org/anthology/2020.findings-emnlp.105/)
+<strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:IjCSPb-OGe4C'></span></strong> \\
+**Guanglin Niu**, Yongfei Zhang, Bo Li, Shiliang Pu and Jingyang Li
+
+_Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: Findings (EMNLP Findings), 2020_
+
+  - This work is the first to automatically learn the embeddings of entity types to enrich the general features of entities without explicit type information.
+  - Our work is promoted by several media and forums, such as [AI Time](https://www.bilibili.com/video/BV1Q44y1g78Z/)、[SFFAI](https://www.bilibili.com/video/av590645807/)、[专知](https://mp.weixin.qq.com/s/bU6Y42250GLmXiRzi8N1Wg).
+
+📃[**Paper**](https://aclanthology.org/2020.findings-emnlp.105.pdf)     💾[**Code**](https://github.com/ngl567/AutoETER) ![img](https://img.shields.io/github/stars/ngl567/AutoETER?style=social)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2022</div><img src='images/enginekg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Perform like an Engine: A Closed-Loop Neural-Symbolic Learning Framework for Knowledge Graph Inference](https://aclanthology.org/2022.coling-1.119/)\\
+**Guanglin Niu**, Bo Li, Yongfei Zhang, Shiliang Pu
+
+_Proceedings of the 29th International Conference on Computational Linguistics (COLING), 2022_
+
+  - We develop a novel closed-loop neural-symbolic learning framework that performs embedding-based rule learning and rule-enhanced knowledge graph embedding iteratively. Interestingly, EngineKG performs like a four-stroke engine.
+  - Our work is promoted by some media and forums, such as [MLNLP Talk](https://www.bilibili.com/video/BV1zV4y1V7j4/).
+
+📃[**Paper**](https://aclanthology.org/2022.coling-1.119.pdf)     💾[**Code**](https://github.com/ngl567/EngineKG)
 </div>
 </div>
 
