@@ -26,7 +26,7 @@ _The 30th International Conference on Database Systems for Advanced Applications
 
 _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023_
 
-  - This work is the first to introduce temporal rules into temporal knowledge graph completion models.
+  - This work LCGE is the first to introduce temporal rules into temporal knowledge graph completion models.
   - LCGE models each event from the perspectives of both the time-sensitive representation and the commonsense.
   - Our work is promoted by some media and forums, such as [AI Time青年科学家论坛](https://mp.weixin.qq.com/s/GP_S9U4EWJD0JGZcdJO3lg).
 
@@ -43,8 +43,8 @@ _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023_
 
 _Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (ACL), 2022_
 
-  - This work is the first to propose a scalable knowledge graph completion framework to predict entities in a joint commonsense and fact-driven fashion.
-  - CAKE consists of an automatic commonsense generation, a commonsense-aware negative sampling and a multi-view link prediction.
+  - This work CAKE is the first to propose a scalable knowledge graph completion framework to predict entities in a joint commonsense and fact-driven fashion.
+  - CAKE generates commonsense automatically for negative sampling and multi-view link prediction.
   - Our work is promoted by several media and forums, such as [AI Time 视频](https://www.bilibili.com/video/BV1Q44y1g78Z/) \| [AI Time 解读](https://mp.weixin.qq.com/s/xQ625k_2kYXerZtO6M8mGg)、[专知](https://www.zhuanzhi.ai/document/5648511d67d6e512eb3521ac47d763d4)、[智源社区](https://hub.baai.ac.cn/view/19366)、[开放知识图谱](https://mp.weixin.qq.com/s/1wVS2aJd6ddyPkvZHx3Lrw)、[AMiner](https://www.aminer.cn/research_report/627c81397cb68b460fb6063d).
 
 📃[**Paper**](https://aclanthology.org/2022.acl-long.205.pdf)     💾[**Code**](https://github.com/ngl567/CAKE) ![img](https://img.shields.io/github/stars/ngl567/CAKE?style=social)
@@ -60,7 +60,7 @@ _Proceedings of the 60th Annual Meeting of the Association for Computational Lin
 
 _Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2021_
 
-  - This approach is the first to propose a gated and attentive neighbor aggregator to capture the most valuable contextual semantics of a relation.
+  - This approach GANA is the first to propose a gated and attentive neighbor aggregator to capture the most valuable contextual semantics of a relation.
   - GANA is one of the most representative models and always selected as the baseline on few-show knowledge graph completion tasks.
   - This work was conducted in collaboration with Qwen team. Our work is promoted by some media and forums, such as [专知](https://www.zhuanzhi.ai/document/01403034427fa0520e958ee1fe4afc56).
 
@@ -78,8 +78,8 @@ _Proceedings of the 44th International ACM SIGIR Conference on Research and Deve
 
 _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020_
 
-  - This work is the first attempt to integrate logic rules with paths for KG embedding, endowing our model with both the explainability from semantic level and the generalization from data level.
-  - Our work is promoted by several media and forums, such as [开放知识图谱](https://mp.weixin.qq.com/s/tsXKwgbd2Z0XZcZZD2wcwQ)、[雷锋网](https://www.leiphone.com/news/201912/5yfuCAlZlbFDypnH.html)、[SAAI](https://zhuanlan.zhihu.com/p/137519588)、[MLNLP](https://www.bilibili.com/video/BV1zV4y1V7j4/). Particularly, our research was recognized as one of the representative studies in the field of neuro-symbolic knowledge graph reasoning at ([CCKS 2021](https://event-cdn.baai.ac.cn/live/20211228-01/Session4.mp4)).
+  - This work RPJE is the first attempt to integrate logic rules with paths for KG embedding, balancing the explainability and the generalization.
+  - Our work is promoted by several media and forums, such as [开放知识图谱](https://mp.weixin.qq.com/s/tsXKwgbd2Z0XZcZZD2wcwQ)、[雷锋网](https://www.leiphone.com/news/201912/5yfuCAlZlbFDypnH.html)、[SAAI](https://zhuanlan.zhihu.com/p/137519588)、[MLNLP](https://www.bilibili.com/video/BV1zV4y1V7j4/). Particularly, RPJE was recognized as one of the representative studies of neuro-symbolic KG reasoning at ([CCKS 2021](https://event-cdn.baai.ac.cn/live/20211228-01/Session4.mp4)).
 
 📃[**Paper**](https://ojs.aaai.org//index.php/AAAI/article/view/5687)     💾[**Code**](https://github.com/ngl567/RPJE) ![img](https://img.shields.io/github/stars/ngl567/RPJE?style=social)
 </div>
