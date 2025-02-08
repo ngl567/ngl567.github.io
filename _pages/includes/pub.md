@@ -9,7 +9,7 @@
 [Diffusion-based Hierarchical Negative Sampling for Multimodal Knowledge Graph Completion](https://arxiv.org/pdf/2501.15393) \\
 **Guanglin Niu**, Xiaowei Zhang
 
-<!-- _The 30th International Conference on Database Systems for Advanced Applications, 2025_ -->
+_The 30th International Conference on Database Systems for Advanced Applications (DASFAA), 2025_
 
 - DHNS is the first to leverage the diffusion model’s capabilities within the context of multi-modal knowledge graph for negative sampling.
 
@@ -24,7 +24,7 @@
 [Rule-Guided Compositional Representation Learning on Knowledge Graphs](https://ojs.aaai.org//index.php/AAAI/article/view/5687) \\
 **Guanglin Niu**, Yongfei Zhang, Bo Li, Peng Cui, Si Liu, Jingyang Li and Xiaowei Zhang
 
-<!-- _Proceedings of the AAAI Conference on Artificial Intelligence, 2020_ -->
+_Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020_
 
 <strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:IjCSPb-OGe4C'></span></strong>
   - This work is the first attempt to integrate logic rules with paths for KG embedding, endowing our model with both the explainability from semantic level and the generalization from data level.
