@@ -18,6 +18,22 @@ _The 30th International Conference on Database Systems for Advanced Applications
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/lcge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Logic and Commonsense-Guided Temporal Knowledge Graph Completion](https://ojs.aaai.org/index.php/AAAI/article/view/25579) \\
+**Guanglin Niu**, Bo Li
+
+_Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023_
+
+  - This work is the first to is the frst effort to introduce temporal rules into temporal knowledge graph completion models, which models each event from the perspectives of both the time-sensitive representation and the commonsense.
+  - Our work are promoted by some media and forums, such as [AI Time青年科学家论坛](https://mp.weixin.qq.com/s/GP_S9U4EWJD0JGZcdJO3lg).
+
+📃[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/25579)     💾[**Code**](https://github.com/ngl567/DHNS) ![img](https://img.shields.io/github/stars/ngl567/LCGE?style=social)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2020</div><img src='images/rpje.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -26,11 +42,10 @@ _The 30th International Conference on Database Systems for Advanced Applications
 
 _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020_
 
-<strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:IjCSPb-OGe4C'></span></strong>
   - This work is the first attempt to integrate logic rules with paths for KG embedding, endowing our model with both the explainability from semantic level and the generalization from data level.
   - Our work are promoted by several media and forums, such as [开放知识图谱](https://mp.weixin.qq.com/s/tsXKwgbd2Z0XZcZZD2wcwQ)、[雷锋网](https://www.leiphone.com/news/201912/5yfuCAlZlbFDypnH.html)、[SAAI](https://zhuanlan.zhihu.com/p/137519588)、[MLNLP](https://www.bilibili.com/video/BV1zV4y1V7j4/). Particularly, our research was recognized as one of the representative studies in the field of neuro-symbolic knowledge graph reasoning at the China Conference on Knowledge Graph and Semantic Computing ([CCKS 2021](https://event-cdn.baai.ac.cn/live/20211228-01/Session4.mp4)).
 
-📃[**Paper**](https://arxiv.org/abs/2501.15393)     💾[**Code**](https://github.com/ngl567/DHNS) ![img](https://img.shields.io/github/stars/ngl567/RPJE?style=social)
+📃[**Paper**](https://ojs.aaai.org//index.php/AAAI/article/view/5687)     💾[**Code**](https://github.com/ngl567/RPJE) ![img](https://img.shields.io/github/stars/ngl567/RPJE?style=social) <strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:IjCSPb-OGe4C'></span></strong>
 </div>
 </div>
 
