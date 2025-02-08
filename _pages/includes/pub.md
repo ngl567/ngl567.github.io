@@ -6,14 +6,14 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025</div><img src='images/dhns.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Diffusion-based Hierarchical Negative Sampling for Multimodal Knowledge Graph Completion](https://arxiv.org/pdf/2501.15393) \\
+[Diffusion-based Hierarchical Negative Sampling for Multimodal Knowledge Graph Completion](https://arxiv.org/abs/2501.15393) \\
 **Guanglin Niu**, Xiaowei Zhang
 
 _The 30th International Conference on Database Systems for Advanced Applications (DASFAA), 2025_
 
 - DHNS is the first to leverage the diffusion model’s capabilities within the context of multi-modal knowledge graph for negative sampling.
 
-📃[**Paper**](https://arxiv.org/abs/2501.15393)     💾[**Code**](https://github.com/ngl567/DHNS) ![img](https://img.shields.io/github/stars/ngl567/DHNS?style=social)
+📃[**Paper**](https://arxiv.org/pdf/2501.15393)     💾[**Code**](https://github.com/ngl567/DHNS) ![img](https://img.shields.io/github/stars/ngl567/DHNS?style=social)
 </div>
 </div>
 
@@ -26,10 +26,45 @@ _The 30th International Conference on Database Systems for Advanced Applications
 
 _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023_
 
-  - This work is the first to is the frst effort to introduce temporal rules into temporal knowledge graph completion models, which models each event from the perspectives of both the time-sensitive representation and the commonsense.
-  - Our work are promoted by some media and forums, such as [AI Time青年科学家论坛](https://mp.weixin.qq.com/s/GP_S9U4EWJD0JGZcdJO3lg).
+  - This work is the first to introduce temporal rules into temporal knowledge graph completion models.
+  - LCGE models each event from the perspectives of both the time-sensitive representation and the commonsense.
+  - Our work is promoted by some media and forums, such as [AI Time青年科学家论坛](https://mp.weixin.qq.com/s/GP_S9U4EWJD0JGZcdJO3lg).
 
-📃[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/25579)     💾[**Code**](https://github.com/ngl567/DHNS) ![img](https://img.shields.io/github/stars/ngl567/LCGE?style=social)
+📃[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/25579)     💾[**Code**](https://github.com/ngl567/LCGE) ![img](https://img.shields.io/github/stars/ngl567/LCGE?style=social)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='images/cake.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CAKE: A Scalable Commonsense-Aware Framework For Multi-View Knowledge Graph Completion](https://aclanthology.org/2022.acl-long.205) \\
+**Guanglin Niu**, Bo Li, Yongfei Zhang, Shiliang Pu
+
+_Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (ACL), 2022_
+
+  - This work is the first to propose a scalable knowledge graph completion framework to predict entities in a joint commonsense and fact-driven fashion.
+  - CAKE consists of an automatic commonsense generation mechanism, a commonsense-aware negative sampling strategy and a multi-view link prediction mechanism.
+  - Our work is promoted by several media and forums, such as [AI Time 视频](https://www.bilibili.com/video/BV1Q44y1g78Z/) \| [AI Time 解读](https://mp.weixin.qq.com/s/xQ625k_2kYXerZtO6M8mGg)、[专知](https://www.zhuanzhi.ai/document/5648511d67d6e512eb3521ac47d763d4)、[智源社区](https://hub.baai.ac.cn/view/19366)、[开放知识图谱](https://mp.weixin.qq.com/s/1wVS2aJd6ddyPkvZHx3Lrw)、[AMiner](https://www.aminer.cn/research_report/627c81397cb68b460fb6063d).
+
+📃[**Paper**](https://aclanthology.org/2022.acl-long.205.pdf)     💾[**Code**](https://github.com/ngl567/CAKE) ![img](https://img.shields.io/github/stars/ngl567/CAKE?style=social) <strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:3fE2CSJIrl8C'></span></strong>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2021</div><img src='images/gana.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Relational Learning with Gated and Attentive Neighbor Aggregator for Few-Shot Knowledge Graph Completion](https://dl.acm.org/doi/10.1145/3404835.3462925) \\
+**Guanglin Niu**, Yang Li, Chengguang Tang, Ruiying Geng, Jian Dai, Qiao Liu, Hao Wang, Jian Sun, Fei Huang, Luo Si
+
+_Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2021_
+
+  - This approach is the first to propose a gated and attentive neighbor aggregator to capture the most valuable contextual semantics of a few-shot relation.
+  - GANA is one of the most representative models and always selected as the baseline on few-show knowledge graph completion tasks.
+  - This work was conducted in collaboration with Qwen team. Our work is promoted by some media and forums, such as [专知](https://www.zhuanzhi.ai/document/01403034427fa0520e958ee1fe4afc56).
+
+📃[**Paper**](https://arxiv.org/pdf/2104.13095)     💾[**Code**](https://github.com/ngl567/GANA-FewShotKGC) ![img](https://img.shields.io/github/stars/ngl567/GANA-FewShotKGC?style=social) <strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -43,7 +78,7 @@ _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023_
 _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020_
 
   - This work is the first attempt to integrate logic rules with paths for KG embedding, endowing our model with both the explainability from semantic level and the generalization from data level.
-  - Our work are promoted by several media and forums, such as [开放知识图谱](https://mp.weixin.qq.com/s/tsXKwgbd2Z0XZcZZD2wcwQ)、[雷锋网](https://www.leiphone.com/news/201912/5yfuCAlZlbFDypnH.html)、[SAAI](https://zhuanlan.zhihu.com/p/137519588)、[MLNLP](https://www.bilibili.com/video/BV1zV4y1V7j4/). Particularly, our research was recognized as one of the representative studies in the field of neuro-symbolic knowledge graph reasoning at the China Conference on Knowledge Graph and Semantic Computing ([CCKS 2021](https://event-cdn.baai.ac.cn/live/20211228-01/Session4.mp4)).
+  - Our work is promoted by several media and forums, such as [开放知识图谱](https://mp.weixin.qq.com/s/tsXKwgbd2Z0XZcZZD2wcwQ)、[雷锋网](https://www.leiphone.com/news/201912/5yfuCAlZlbFDypnH.html)、[SAAI](https://zhuanlan.zhihu.com/p/137519588)、[MLNLP](https://www.bilibili.com/video/BV1zV4y1V7j4/). Particularly, our research was recognized as one of the representative studies in the field of neuro-symbolic knowledge graph reasoning at the China Conference on Knowledge Graph and Semantic Computing ([CCKS 2021](https://event-cdn.baai.ac.cn/live/20211228-01/Session4.mp4)).
 
 📃[**Paper**](https://ojs.aaai.org//index.php/AAAI/article/view/5687)     💾[**Code**](https://github.com/ngl567/RPJE) ![img](https://img.shields.io/github/stars/ngl567/RPJE?style=social) <strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:IjCSPb-OGe4C'></span></strong>
 </div>
