@@ -60,7 +60,7 @@ _Proceedings of the 60th Annual Meeting of the Association for Computational Lin
 
 _Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2021_
 
-  - This approach is the first to propose a gated and attentive neighbor aggregator to capture the most valuable contextual semantics of a few-shot relation.
+  - This approach is the first to propose a gated and attentive neighbor aggregator to capture the most valuable contextual semantics of a relation.
   - GANA is one of the most representative models and always selected as the baseline on few-show knowledge graph completion tasks.
   - This work was conducted in collaboration with Qwen team. Our work is promoted by some media and forums, such as [专知](https://www.zhuanzhi.ai/document/01403034427fa0520e958ee1fe4afc56).
 
@@ -78,7 +78,7 @@ _Proceedings of the 44th International ACM SIGIR Conference on Research and Deve
 _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020_
 
   - This work is the first attempt to integrate logic rules with paths for KG embedding, endowing our model with both the explainability from semantic level and the generalization from data level.
-  - Our work is promoted by several media and forums, such as [开放知识图谱](https://mp.weixin.qq.com/s/tsXKwgbd2Z0XZcZZD2wcwQ)、[雷锋网](https://www.leiphone.com/news/201912/5yfuCAlZlbFDypnH.html)、[SAAI](https://zhuanlan.zhihu.com/p/137519588)、[MLNLP](https://www.bilibili.com/video/BV1zV4y1V7j4/). Particularly, our research was recognized as one of the representative studies in the field of neuro-symbolic knowledge graph reasoning at the China Conference on Knowledge Graph and Semantic Computing ([CCKS 2021](https://event-cdn.baai.ac.cn/live/20211228-01/Session4.mp4)).
+  - Our work is promoted by several media and forums, such as [开放知识图谱](https://mp.weixin.qq.com/s/tsXKwgbd2Z0XZcZZD2wcwQ)、[雷锋网](https://www.leiphone.com/news/201912/5yfuCAlZlbFDypnH.html)、[SAAI](https://zhuanlan.zhihu.com/p/137519588)、[MLNLP](https://www.bilibili.com/video/BV1zV4y1V7j4/). Particularly, our research was recognized as one of the representative studies in the field of neuro-symbolic knowledge graph reasoning at ([CCKS 2021](https://event-cdn.baai.ac.cn/live/20211228-01/Session4.mp4)).
 
 📃[**Paper**](https://ojs.aaai.org//index.php/AAAI/article/view/5687)     💾[**Code**](https://github.com/ngl567/RPJE) ![img](https://img.shields.io/github/stars/ngl567/RPJE?style=social) <strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:IjCSPb-OGe4C'></span></strong>
 </div>
