@@ -44,7 +44,7 @@ _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023_
 _Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (ACL), 2022_
 
   - This work is the first to propose a scalable knowledge graph completion framework to predict entities in a joint commonsense and fact-driven fashion.
-  - CAKE consists of an automatic commonsense generation mechanism, a commonsense-aware negative sampling strategy and a multi-view link prediction mechanism.
+  - CAKE consists of an automatic commonsense generation, a commonsense-aware negative sampling and a multi-view link prediction.
   - Our work is promoted by several media and forums, such as [AI Time 视频](https://www.bilibili.com/video/BV1Q44y1g78Z/) \| [AI Time 解读](https://mp.weixin.qq.com/s/xQ625k_2kYXerZtO6M8mGg)、[专知](https://www.zhuanzhi.ai/document/5648511d67d6e512eb3521ac47d763d4)、[智源社区](https://hub.baai.ac.cn/view/19366)、[开放知识图谱](https://mp.weixin.qq.com/s/1wVS2aJd6ddyPkvZHx3Lrw)、[AMiner](https://www.aminer.cn/research_report/627c81397cb68b460fb6063d).
 
 📃[**Paper**](https://aclanthology.org/2022.acl-long.205.pdf)     💾[**Code**](https://github.com/ngl567/CAKE) ![img](https://img.shields.io/github/stars/ngl567/CAKE?style=social)
@@ -96,7 +96,7 @@ _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020_
 _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: Findings (EMNLP Findings), 2020_
 
   - This work is the first to automatically learn the embeddings of entity types to enrich the general features of entities without explicit type information.
-  - Our work is promoted by several media and forums, such as [AI Time](https://www.bilibili.com/video/BV1Q44y1g78Z/)、[SFFAI](https://www.bilibili.com/video/av590645807/)、[专知](https://mp.weixin.qq.com/s/bU6Y42250GLmXiRzi8N1Wg).
+  - Our work is promoted by some media, such as [AI Time](https://www.bilibili.com/video/BV1Q44y1g78Z/)、[SFFAI](https://www.bilibili.com/video/av590645807/)、[专知](https://mp.weixin.qq.com/s/bU6Y42250GLmXiRzi8N1Wg).
 
 📃[**Paper**](https://aclanthology.org/2020.findings-emnlp.105.pdf)     💾[**Code**](https://github.com/ngl567/AutoETER) ![img](https://img.shields.io/github/stars/ngl567/AutoETER?style=social)
 </div>
@@ -111,7 +111,7 @@ _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Pro
 
 _Proceedings of the 29th International Conference on Computational Linguistics (COLING), 2022_
 
-  - We develop a novel closed-loop neural-symbolic learning framework that performs embedding-based rule learning and rule-enhanced knowledge graph embedding iteratively. Interestingly, EngineKG performs like a four-stroke engine.
+  - EngineKG performs like a four-stroke engine in a closed-loop neural-symbolic learning framework with embedding-based rule learning and rule-enhanced knowledge graph embedding. 
   - Our work is promoted by some media and forums, such as [MLNLP Talk](https://www.bilibili.com/video/BV1zV4y1V7j4/).
 
 📃[**Paper**](https://aclanthology.org/2022.coling-1.119.pdf)     💾[**Code**](https://github.com/ngl567/EngineKG)
