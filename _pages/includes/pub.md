@@ -6,7 +6,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025</div><img src='images/dhns.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Diffusion-based Hierarchical Negative Sampling for Multimodal Knowledge Graph Completion](https://arxiv.org/pdf/2501.15393)
+[Diffusion-based Hierarchical Negative Sampling for Multimodal Knowledge Graph Completion](https://arxiv.org/pdf/2501.15393) \\
 **Guanglin Niu**, Xiaowei Zhang
 
 <!-- _The 30th International Conference on Database Systems for Advanced Applications, 2025_ -->
@@ -18,13 +18,15 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"AAAI 2020</div><img src='images/rpje.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2020</div><img src='images/rpje.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Rule-Guided Compositional Representation Learning on Knowledge Graphs](https://ojs.aaai.org//index.php/AAAI/article/view/5687) \\
 **Guanglin Niu**, Yongfei Zhang, Bo Li, Peng Cui, Si Liu, Jingyang Li and Xiaowei Zhang
 
-<strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
+<!-- _Proceedings of the AAAI Conference on Artificial Intelligence, 2020_ -->
+
+<strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:IjCSPb-OGe4C'></span></strong>
   - This work is the first attempt to integrate logic rules with paths for KG embedding, endowing our model with both the explainability from semantic level and the generalization from data level.
   - Our work are promoted by several media and forums, such as [开放知识图谱](https://mp.weixin.qq.com/s/tsXKwgbd2Z0XZcZZD2wcwQ)、[雷锋网](https://www.leiphone.com/news/201912/5yfuCAlZlbFDypnH.html)、[SAAI](https://zhuanlan.zhihu.com/p/137519588)、[MLNLP](https://www.bilibili.com/video/BV1zV4y1V7j4/). Particularly, our research was recognized as one of the representative studies in the field of neuro-symbolic knowledge graph reasoning at the China Conference on Knowledge Graph and Semantic Computing ([CCKS 2021](https://event-cdn.baai.ac.cn/live/20211228-01/Session4.mp4)).
 
