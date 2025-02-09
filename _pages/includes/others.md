@@ -11,7 +11,7 @@
 - *2020.12*, Automated Entity Type Representation Learning for Knowledge Graph Embedding, Student Forums on Frontiers of Artificial Intelligence (SFFAI) \| [\[video\]](https://www.bilibili.com/video/av590645807/)
 - *2019.12*, Rule-Guided Compositional Representation Learning on Knowledge Graphs, Alibaba Group \| [\[video\]](https://developer.aliyun.com/live/1856)
 
-# 🎙️ Internships
+# 🎙️ Media Coverage
 - [常识和事实联合驱动的知识图谱推理框架](https://mp.weixin.qq.com/s/xQ625k_2kYXerZtO6M8mGg), AI Time
 - [近期必读的六篇 EMNLP 2020【知识图谱】相关论文和代码](https://mp.weixin.qq.com/s/bU6Y42250GLmXiRzi8N1Wg), 专知
 - [CAKE：一个用于多视图知识图谱补全的可扩展性常识感知框架](https://mp.weixin.qq.com/s/1wVS2aJd6ddyPkvZHx3Lrw), 专知 \| 智源社区 \| 开放知识图谱
