@@ -119,18 +119,46 @@ _Proceedings of the 29th International Conference on Computational Linguistics (
 </div>
 
 
-- `AAAI 2024` [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
-- ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.
-- ``ICML 2019`` <span style="color:red">(Oral)</span> [Almost Unsupervised Text to Speech and Automatic Speech Recognition](https://pdfs.semanticscholar.org/9075/a3e6271e5ef4953491488d1776527e632408.pdf), **Yi Ren**, Xu Tan, Tao Qin, et al.  \| [**Project**](https://speechresearch.github.io/unsuper/) 
+- `计算机科学 2024` [面向关系特性建模的知识图谱表示学习研究综述](https://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=22673), **Guanglin Niu**, Zhen Lin.
+- ``Arxiv 2024`` [Knowledge Graph Embeddings: A Comprehensive Survey on Capturing Relation Properties](https://arxiv.org/pdf/2410.14733), **Guanglin Niu**. This paper is a modified English version of our article already published in Computer Science journal (in Chinese), released to facilitate communication among international researchers in the relevant fields.
+- ``Arxiv 2024`` [A Pluggable Common Sense-Enhanced Framework for Knowledge Graph Completion](https://arxiv.org/pdf/2410.04488), **Guanglin Niu**, Bo Li, Siling Feng, et al.
+- `Neurocomputing 2022` [Joint Semantics and Data-Driven Path Representation for Knowledge Graph Reasoning](https://www.sciencedirect.com/science/article/abs/pii/S0925231222001515), **Guanglin Niu**, Bo Li, Yongfei Zhang, et al.
+- ``ACL 2021`` [Entity Concept Enhanced Few-Shot Relation Extraction](https://aclanthology.org/2021.acl-short.124/), Shan Yang, Yongfei Zhang, **Guanglin Niu**, Qinghua Zhao, et al. \| [![](https://img.shields.io/github/stars/LittleGuoKe/ConceptFERE?style=social&label=Code+Stars)](https://github.com/LittleGuoKe/ConceptFERE) <strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:ufrVoPGSRksC'></span></strong>
+- ``Arxiv 2021`` </span> [Path-Enhanced Multi-Relational Question Answering with Knowledge Graph Embeddings](https://arxiv.org/pdf/2110.15622.pdf), **Guanglin Niu**, Yang Li, Chengguang Tang, et al.
+
 
 ## 🖼️ Computer Vision
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/real3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/camel.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis](https://openreview.net/forum?id=7ERQPyR2eb), Zhenhui Ye, Tianyun Zhong, Yi Ren, et al. <span style="color:red">(Spotlight)</span> [**Project**](https://real3dportrait.github.io/) | [**Code**](https://github.com/yerfor/Real3DPortrait)
+[CAMEL: CAusal Motion Enhancement tailored for Lifting Text-driven Video Editing](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_CAMEL_CAusal_Motion_Enhancement_Tailored_for_Lifting_Text-driven_Video_Editing_CVPR_2024_paper.html) \\
+Guiwei Zhang, Tianyu Zhang, **Guanglin Niu**(Corresponding Author), Zichang Tan, Yalong Bai, Qing Yang
+
+_Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024_
+
+- DHNS develops a causal motion-enhanced attention mechanism to enhance the motion coherence of latent representations while preserving content generalization to creative textual scenarios.
+
+📃[**Paper**](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_CAMEL_CAusal_Motion_Enhancement_Tailored_for_Lifting_Text-driven_Video_Editing_CVPR_2024_paper.pdf)     💾[**Code**](https://github.com/zhangguiwei610/CAMEL) ![img](https://img.shields.io/github/stars/zhangguiwei610/CAMEL?style=social)
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/idf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Identity-aware Feature Decoupling Learning for Clothing-change Person Re-identification](https://arxiv.org/pdf/2501.05851) \\
+Guiwei Zhang, Tianyu Zhang, **Guanglin Niu**(Corresponding Author), Zichang Tan, Yalong Bai, Qing Yang
+
+_2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025_
+
+- IDF is the first to propose a dual-stream identity-attention model that effectively compels the network to focus comprehensively on the regions containing distinctive identity information.
+
+📃[**Paper**](https://arxiv.org/pdf/2501.05851)
+</div>
+</div>
+
+
 
 - `ICLR 2023` [GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://openreview.net/forum?id=YfwMIDhPccD), Zhenhui Ye, Ziyue Jiang, **Yi Ren**, et al.
 
