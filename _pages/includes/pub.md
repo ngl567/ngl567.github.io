@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-## Knowledge Graph
+## 🤖 Knowledge Graph
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025</div><img src='images/dhns.png' alt="sym" width="100%"></div></div>
@@ -119,12 +119,12 @@ _Proceedings of the 29th International Conference on Computational Linguistics (
 </div>
 
 
-- [![计算机科学 2024](https://img.shields.io/badge/计算机科学-2024-FF6F61?style=flat&logo=计算机科学&logoColor=white)] [面向关系特性建模的知识图谱表示学习研究综述](https://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=22673), **Guanglin Niu**, Zhen Lin.
-- ``Arxiv 2024`` [Knowledge Graph Embeddings: A Comprehensive Survey on Capturing Relation Properties](https://arxiv.org/pdf/2410.14733), **Guanglin Niu**. This paper is a modified English version of our article already published in Computer Science journal (in Chinese), released to facilitate communication among international researchers in the relevant fields.
-- ``Arxiv 2024`` [A Pluggable Common Sense-Enhanced Framework for Knowledge Graph Completion](https://arxiv.org/pdf/2410.04488), **Guanglin Niu**, Bo Li, Siling Feng, et al.
-- `Neurocomputing 2022` [Joint Semantics and Data-Driven Path Representation for Knowledge Graph Reasoning](https://www.sciencedirect.com/science/article/abs/pii/S0925231222001515), **Guanglin Niu**, Bo Li, Yongfei Zhang, et al.
-- ``ACL 2021`` [Entity Concept Enhanced Few-Shot Relation Extraction](https://aclanthology.org/2021.acl-short.124/), Shan Yang, Yongfei Zhang, **Guanglin Niu**, Qinghua Zhao, et al. \| [![](https://img.shields.io/github/stars/LittleGuoKe/ConceptFERE?style=social&label=Code+Stars)](https://github.com/LittleGuoKe/ConceptFERE) <strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:ufrVoPGSRksC'></span></strong>
-- ``Arxiv 2021`` </span> [Path-Enhanced Multi-Relational Question Answering with Knowledge Graph Embeddings](https://arxiv.org/pdf/2110.15622.pdf), **Guanglin Niu**, Yang Li, Chengguang Tang, et al.
+- ![计算机科学 2024](https://img.shields.io/badge/计算机科学-2024-FF6F61?style=flat&logo=计算机科学&logoColor=white) [面向关系特性建模的知识图谱表示学习研究综述](https://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=22673), **Guanglin Niu**, Zhen Lin.
+- ![Arxiv 2024](https://img.shields.io/badge/Arxiv-2024-FF6F61?style=flat&logo=Arxiv&logoColor=white) [Knowledge Graph Embeddings: A Comprehensive Survey on Capturing Relation Properties](https://arxiv.org/pdf/2410.14733), **Guanglin Niu**. This paper is a modified English version of our article already published in Computer Science journal (in Chinese), released to facilitate communication among international researchers in the relevant fields.
+- ![Arxiv 2024](https://img.shields.io/badge/Arxiv-2024-FF6F61?style=flat&logo=Arxiv&logoColor=white) [A Pluggable Common Sense-Enhanced Framework for Knowledge Graph Completion](https://arxiv.org/pdf/2410.04488), **Guanglin Niu**, Bo Li, Siling Feng, et al.
+- ![Neurocomputing 2022](https://img.shields.io/badge/Neurocomputing-2022-FF6F61?style=flat&logo=Neurocomputing&logoColor=white) [Joint Semantics and Data-Driven Path Representation for Knowledge Graph Reasoning](https://www.sciencedirect.com/science/article/abs/pii/S0925231222001515), **Guanglin Niu**, Bo Li, Yongfei Zhang, et al.
+- ![ACL 2022](https://img.shields.io/badge/ACL-2021-FF6F61?style=flat&logo=ACL&logoColor=white) [Entity Concept Enhanced Few-Shot Relation Extraction](https://aclanthology.org/2021.acl-short.124/), Shan Yang, Yongfei Zhang, **Guanglin Niu**, Qinghua Zhao, et al. \| [![](https://img.shields.io/github/stars/LittleGuoKe/ConceptFERE?style=social&label=Code+Stars)](https://github.com/LittleGuoKe/ConceptFERE) <strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:ufrVoPGSRksC'></span></strong>
+- ![Arxiv 2021](https://img.shields.io/badge/Arxiv-2021-FF6F61?style=flat&logo=Arxiv&logoColor=white) </span> [Path-Enhanced Multi-Relational Question Answering with Knowledge Graph Embeddings](https://arxiv.org/pdf/2110.15622.pdf), **Guanglin Niu**, Yang Li, Chengguang Tang, et al.
 
 
 ## 🖼️ Computer Vision
@@ -165,7 +165,7 @@ _2025 IEEE International Conference on Acoustics, Speech, and Signal Processing 
 - `Neurocomputing 2019` [Real-time object tracking via self-adaptive appearance modeling](https://www.sciencedirect.com/science/article/abs/pii/S092523121930548X?via%3Dihub), Ming Xin, Jin Zheng, Bo Li, **Guanglin Niu**, Miaohui Zhang.
 
   
-## 📚 Large Language Model
+## ![GPT](https://img.shields.io/badge/GPT-%2300A67E?style=flat-square&logo=OpenAI&logoColor=white) Large Language Model
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/tablebench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
