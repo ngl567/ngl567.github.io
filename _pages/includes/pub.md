@@ -144,7 +144,7 @@ _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogniti
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/idf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/ifd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Identity-aware Feature Decoupling Learning for Clothing-change Person Re-identification](https://arxiv.org/pdf/2501.05851) \\
@@ -152,26 +152,60 @@ Guiwei Zhang, Tianyu Zhang, **Guanglin Niu**(Corresponding Author), Zichang Tan,
 
 _2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025_
 
-- IDF is the first to propose a dual-stream identity-attention model that effectively compels the network to focus comprehensively on the regions containing distinctive identity information.
+- IFD is the first to propose a dual-stream identity-attention model that effectively compels the network to focus comprehensively on the regions containing distinctive identity information.
 
 📃[**Paper**](https://arxiv.org/pdf/2501.05851)
 </div>
 </div>
 
 
-
-- `ICLR 2023` [GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://openreview.net/forum?id=YfwMIDhPccD), Zhenhui Ye, Ziyue Jiang, **Yi Ren**, et al.
+- `Multimedia Systems 2024` [Hierarchical bi-directional conceptual interaction for text-video retrieval](https://link.springer.com/article/10.1007/s00530-024-01525-3), Wenpeng Han, **Guanglin Niu**, Mingliang Zhou, Xiaowei Zhang.
+- `IEEE Signal Processing Letters 2024` [Geometry-Guided Point Generation for 3D Object Detection](https://link.springer.com/article/10.1007/s00530-024-01525-3), Kai Wang, Mingliang Zhou, Qing Lin, **Guanglin Niu**, Xiaowei Zhang.
+- `IEEE Signal Processing Letters 2024` [CCUP: A Controllable Synthetic Data Generation Pipeline for Pretraining Cloth-Changing Person Re-Identification Models](https://link.springer.com/article/10.1007/s00530-024-01525-3), Yujian Zhao, Chengru Wu, Yinong Xu, Xuanzheng Du, Ruiyu Li, **Guanglin Niu**(Corresponding Author).
+- `Neurocomputing 2019` [Real-time object tracking via self-adaptive appearance modeling](https://www.sciencedirect.com/science/article/abs/pii/S092523121930548X?via%3Dihub), Ming Xin, Jin Zheng, Bo Li, **Guanglin Niu**, Miaohui Zhang.
 
   
 ## 📚 Large Language Model
-- ``ACL 2023`` [AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation](), Rongjie Huang, Huadai Liu, Xize Cheng, **Yi Ren**, et al.
-- `ICLR 2023` [TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation](https://openreview.net/forum?id=UVAmFAtC5ye), Rongjie Huang, Jinglin Liu, Huadai Liu, **Yi Ren**, Lichao Zhang, Jinzheng He, Zhou Zhao
-- ``AAAI 2021`` [UWSpeech: Speech to Speech Translation for Unwritten Languages](https://arxiv.org/abs/2006.07926), Chen Zhang, Xu Tan, **Yi Ren**, et al. \| [**Project**](https://speechresearch.github.io/uwspeech/)
-- ``IJCAI 2020`` [Task-Level Curriculum Learning for Non-Autoregressive Neural Machine Translation](https://www.ijcai.org/Proceedings/2020/0534.pdf), Jinglin Liu, **Yi Ren**, Xu Tan, et al.
-- ``ACL 2020`` [SimulSpeech: End-to-End Simultaneous Speech to Text Translation](https://www.aclweb.org/anthology/2020.acl-main.350), **Yi Ren**, Jinglin Liu, Xu Tan, et al.
-- ``ACL 2020`` [A Study of Non-autoregressive Model for Sequence Generation](https://arxiv.org/abs/2004.10454), **Yi Ren**, Jinglin Liu, Xu Tan, et al.
-- ``ICLR 2019`` [Multilingual Neural Machine Translation with Knowledge Distillation](https://openreview.net/forum?id=S1gUsoR9YX), Xu Tan, **Yi Ren**, Di He, et al.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/tablebench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Tablebench: A comprehensive and complex benchmark for table question answering](https://arxiv.org/pdf/2408.09174) \\
+Xianjie Wu, Jian Yang, Linzheng Chai, Ge Zhang, Jiaheng Liu, Xinrun Du, Di Liang, Daixin Shu, Xianfu Cheng, Tianzhen Sun, **Guanglin Niu**, Tongliang Li, Zhoujun Li 
+_Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2025_
+
+- TableBench is a human-annotated comprehensive and complex TableQA benchmark comprising 886 samples across 18 fields, designed to facilitate fact-checking, numerical reasoning, data analysis, and visualization tasks.
+- Our work is promoted by several media and forums, such as [AINLP](https://mp.weixin.qq.com/s/U9y5ncIcqS1Gt0S8Lx6ohw)
+
+[**Project**](https://tablebench.github.io//)     📃[**Paper**](https://arxiv.org/pdf/2408.09174)     💾[**Code**](https://github.com/TableBench/TableBench) ![img](https://img.shields.io/github/stars/TableBench/TableBench?style=social)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/mdeval.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MdEval: Massively Multilingual Code Debugging](https://arxiv.org/abs/2411.02310) \\
+Shukai Liu, Linzheng Chai, Jian Yang, Jiajun Shi, He Zhu, Liran Wang, Ke Jin, Wei Zhang, Hualei Zhu, Shuyue Guo, Tao Sun, Jiaheng Liu, Yunlong Duan, Yu Hao, Liqun Yang, **Guanglin Niu**, Ge Zhang, Zhoujun Li
+
+- MdEval is the first massively multilingual debugging benchmark, which includes 3.6K test samples of 18 programming languages and covers the automated program repair (APR) task, the code review (CR) task, and the bug identification (BI) task.
+
+📃[**Paper**](https://arxiv.org/pdf/2411.02310)     [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Datasets)](https://huggingface.co/datasets/Multilingual-Multimodal-NLP/MDEVAL)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/fuzzcoder.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FuzzCoder: Byte-level Fuzzing Test via Large Language Model](https://arxiv.org/abs/2409.01944) \\
+Liqun Yang, Jian Yang, Chaoren Wei, **Guanglin Niu**, Ge Zhang, Yunli Wang, et al
+
+- FuzzCoder formulates the fuzzing test as a sequenceto-sequence paradigm and then introduce the generation model to attack vulnerable positions by selecting proper mutation positions and strategies.
+
+📃[**Paper**](https://arxiv.org/pdf/2409.01944)     💾[**Code**](https://github.com/weimo3221/FUZZ-CODER) ![img](https://img.shields.io/github/stars/weimo3221/FUZZ-CODER?style=social)
+</div>
+</div>
 
 
 ## Others
-- ``ICLR 2022`` [Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY), Luping Liu, **Yi Ren**, Zhijie Lin, Zhou Zhao \| [![](https://img.shields.io/github/stars/luping-liu/PNDM?style=social&label=Code+Stars)](https://github.com/luping-liu/PNDM) \| [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pseudo-numerical-methods-for-diffusion-models-1/image-generation-on-celeba-64x64)](https://paperswithcode.com/sota/image-generation-on-celeba-64x64?p=pseudo-numerical-methods-for-diffusion-models-1)
+- ``AST 2018`` [Spacecraft Attitude Fault-Tolerant Control Based on Iterative Learning Observer and Control Allocation](https://www.sciencedirect.com/science/article/abs/pii/S1270963817314906), Qinglei Hu, **Guanglin Niu**, Chenliang Wang
