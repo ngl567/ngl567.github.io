@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-## 🤖 Knowledge Graph
+## ![](https://img.shields.io/badge/-%23FF6600?style=flat-square&logo=GraphQL&logoColor=white) Knowledge Graph
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025</div><img src='images/dhns.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
