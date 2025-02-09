@@ -159,7 +159,7 @@ _2025 IEEE International Conference on Acoustics, Speech, and Signal Processing 
 </div>
 
 
-- <div class="badge">Multimedia Systems 2024</div> [Hierarchical bi-directional conceptual interaction for text-video retrieval](https://link.springer.com/article/10.1007/s00530-024-01525-3), Wenpeng Han, **Guanglin Niu**, Mingliang Zhou, Xiaowei Zhang.
+- ![Multimedia Systems 2024](https://img.shields.io/badge/Multimedia Systems-2024-FF6F61?style=flat) [Hierarchical bi-directional conceptual interaction for text-video retrieval](https://link.springer.com/article/10.1007/s00530-024-01525-3), Wenpeng Han, **Guanglin Niu**, Mingliang Zhou, Xiaowei Zhang.
 - `IEEE Signal Processing Letters 2024` [Geometry-Guided Point Generation for 3D Object Detection](https://link.springer.com/article/10.1007/s00530-024-01525-3), Kai Wang, Mingliang Zhou, Qing Lin, **Guanglin Niu**, Xiaowei Zhang.
 - `IEEE Signal Processing Letters 2024` [CCUP: A Controllable Synthetic Data Generation Pipeline for Pretraining Cloth-Changing Person Re-Identification Models](https://link.springer.com/article/10.1007/s00530-024-01525-3), Yujian Zhao, Chengru Wu, Yinong Xu, Xuanzheng Du, Ruiyu Li, **Guanglin Niu**(Corresponding Author).
 - `Neurocomputing 2019` [Real-time object tracking via self-adaptive appearance modeling](https://www.sciencedirect.com/science/article/abs/pii/S092523121930548X?via%3Dihub), Ming Xin, Jin Zheng, Bo Li, **Guanglin Niu**, Miaohui Zhang.
