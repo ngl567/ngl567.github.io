@@ -119,7 +119,7 @@ _Proceedings of the 29th International Conference on Computational Linguistics (
 </div>
 
 
-- `计算机科学 2024` [面向关系特性建模的知识图谱表示学习研究综述](https://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=22673), **Guanglin Niu**, Zhen Lin.
+- [![计算机科学 2024](https://img.shields.io/badge/计算机科学-2024-FF6F61?style=flat&logo=计算机科学&logoColor=white)] [面向关系特性建模的知识图谱表示学习研究综述](https://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=22673), **Guanglin Niu**, Zhen Lin.
 - ``Arxiv 2024`` [Knowledge Graph Embeddings: A Comprehensive Survey on Capturing Relation Properties](https://arxiv.org/pdf/2410.14733), **Guanglin Niu**. This paper is a modified English version of our article already published in Computer Science journal (in Chinese), released to facilitate communication among international researchers in the relevant fields.
 - ``Arxiv 2024`` [A Pluggable Common Sense-Enhanced Framework for Knowledge Graph Completion](https://arxiv.org/pdf/2410.04488), **Guanglin Niu**, Bo Li, Siling Feng, et al.
 - `Neurocomputing 2022` [Joint Semantics and Data-Driven Path Representation for Knowledge Graph Reasoning](https://www.sciencedirect.com/science/article/abs/pii/S0925231222001515), **Guanglin Niu**, Bo Li, Yongfei Zhang, et al.
