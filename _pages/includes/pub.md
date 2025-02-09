@@ -119,12 +119,12 @@ _Proceedings of the 29th International Conference on Computational Linguistics (
 </div>
 
 
-- ![计算机科学 2024](https://img.shields.io/badge/计算机科学-2024-FF6F61?style=flat&logo=计算机科学&logoColor=white) [面向关系特性建模的知识图谱表示学习研究综述](https://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=22673), **Guanglin Niu**, Zhen Lin.
-- ![Arxiv 2024](https://img.shields.io/badge/Arxiv-2024-FF6F61?style=flat&logo=Arxiv&logoColor=white) [Knowledge Graph Embeddings: A Comprehensive Survey on Capturing Relation Properties](https://arxiv.org/pdf/2410.14733), **Guanglin Niu**. This paper is a modified English version of our article already published in Computer Science journal (in Chinese), released to facilitate communication among international researchers in the relevant fields.
-- ![Arxiv 2024](https://img.shields.io/badge/Arxiv-2024-FF6F61?style=flat&logo=Arxiv&logoColor=white) [A Pluggable Common Sense-Enhanced Framework for Knowledge Graph Completion](https://arxiv.org/pdf/2410.04488), **Guanglin Niu**, Bo Li, Siling Feng, et al.
-- ![Neurocomputing 2022](https://img.shields.io/badge/Neurocomputing-2022-FF6F61?style=flat&logo=Neurocomputing&logoColor=white) [Joint Semantics and Data-Driven Path Representation for Knowledge Graph Reasoning](https://www.sciencedirect.com/science/article/abs/pii/S0925231222001515), **Guanglin Niu**, Bo Li, Yongfei Zhang, et al.
-- ![ACL 2022](https://img.shields.io/badge/ACL-2021-FF6F61?style=flat&logo=ACL&logoColor=white) [Entity Concept Enhanced Few-Shot Relation Extraction](https://aclanthology.org/2021.acl-short.124/), Shan Yang, Yongfei Zhang, **Guanglin Niu**, Qinghua Zhao, et al. \| [![](https://img.shields.io/github/stars/LittleGuoKe/ConceptFERE?style=social&label=Code+Stars)](https://github.com/LittleGuoKe/ConceptFERE) <strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:ufrVoPGSRksC'></span></strong>
-- ![Arxiv 2021](https://img.shields.io/badge/Arxiv-2021-FF6F61?style=flat&logo=Arxiv&logoColor=white) </span> [Path-Enhanced Multi-Relational Question Answering with Knowledge Graph Embeddings](https://arxiv.org/pdf/2110.15622.pdf), **Guanglin Niu**, Yang Li, Chengguang Tang, et al.
+- ![计算机科学 2024](https://img.shields.io/badge/计算机科学_2024-00369F?style=flat&logo=计算机科学) [面向关系特性建模的知识图谱表示学习研究综述](https://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=22673), **Guanglin Niu**, Zhen Lin.
+- ![Arxiv 2024](https://img.shields.io/badge/Arxiv_2024-00369F?style=flat) [Knowledge Graph Embeddings: A Comprehensive Survey on Capturing Relation Properties](https://arxiv.org/pdf/2410.14733), **Guanglin Niu**. This paper is a modified English version of our article already published in Computer Science journal (in Chinese), released to facilitate communication among international researchers in the relevant fields.
+- ![Arxiv 2024](https://img.shields.io/badge/Arxiv_2024-00369F?style=flat) [A Pluggable Common Sense-Enhanced Framework for Knowledge Graph Completion](https://arxiv.org/pdf/2410.04488), **Guanglin Niu**, Bo Li, Siling Feng, et al.
+- ![Neurocomputing 2022](https://img.shields.io/badge/Neurocomputing_2022-00369F?style=flat) [Joint Semantics and Data-Driven Path Representation for Knowledge Graph Reasoning](https://www.sciencedirect.com/science/article/abs/pii/S0925231222001515), **Guanglin Niu**, Bo Li, Yongfei Zhang, et al.
+- ![ACL 2022](https://img.shields.io/badge/ACL_2021-00369F?style=flat) [Entity Concept Enhanced Few-Shot Relation Extraction](https://aclanthology.org/2021.acl-short.124/), Shan Yang, Yongfei Zhang, **Guanglin Niu**, Qinghua Zhao, et al. \| [![](https://img.shields.io/github/stars/LittleGuoKe/ConceptFERE?style=social&label=Code+Stars)](https://github.com/LittleGuoKe/ConceptFERE) <strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:ufrVoPGSRksC'></span></strong>
+- ![Arxiv 2021](https://img.shields.io/badge/Arxiv_2021-00369F?style=flat) </span> [Path-Enhanced Multi-Relational Question Answering with Knowledge Graph Embeddings](https://arxiv.org/pdf/2110.15622.pdf), **Guanglin Niu**, Yang Li, Chengguang Tang, et al.
 
 
 ## 🖼️ Computer Vision
@@ -159,13 +159,13 @@ _2025 IEEE International Conference on Acoustics, Speech, and Signal Processing 
 </div>
 
 
-- ![Multimedia Systems 2024](https://img.shields.io/badge/Multimedia Systems-2024-FF6F61?style=flat) [Hierarchical bi-directional conceptual interaction for text-video retrieval](https://link.springer.com/article/10.1007/s00530-024-01525-3), Wenpeng Han, **Guanglin Niu**, Mingliang Zhou, Xiaowei Zhang.
-- `IEEE Signal Processing Letters 2024` [Geometry-Guided Point Generation for 3D Object Detection](https://link.springer.com/article/10.1007/s00530-024-01525-3), Kai Wang, Mingliang Zhou, Qing Lin, **Guanglin Niu**, Xiaowei Zhang.
-- `IEEE Signal Processing Letters 2024` [CCUP: A Controllable Synthetic Data Generation Pipeline for Pretraining Cloth-Changing Person Re-Identification Models](https://link.springer.com/article/10.1007/s00530-024-01525-3), Yujian Zhao, Chengru Wu, Yinong Xu, Xuanzheng Du, Ruiyu Li, **Guanglin Niu**(Corresponding Author).
-- `Neurocomputing 2019` [Real-time object tracking via self-adaptive appearance modeling](https://www.sciencedirect.com/science/article/abs/pii/S092523121930548X?via%3Dihub), Ming Xin, Jin Zheng, Bo Li, **Guanglin Niu**, Miaohui Zhang.
+- ![Multimedia Systems 2024](https://img.shields.io/badge/Multimedia_Systems_2024-00369F) [Hierarchical bi-directional conceptual interaction for text-video retrieval](https://link.springer.com/article/10.1007/s00530-024-01525-3), Wenpeng Han, **Guanglin Niu**, Mingliang Zhou, Xiaowei Zhang.
+- ![IEEE Signal Processing Letters 2024](https://img.shields.io/badge/IEEE_Signal_Processing_Letters_2024-00369F) [Geometry-Guided Point Generation for 3D Object Detection](https://link.springer.com/article/10.1007/s00530-024-01525-3), Kai Wang, Mingliang Zhou, Qing Lin, **Guanglin Niu**, Xiaowei Zhang.
+- ![Arxiv 2024](https://img.shields.io/badge/Arxiv_2024-00369F) [CCUP: A Controllable Synthetic Data Generation Pipeline for Pretraining Cloth-Changing Person Re-Identification Models](https://link.springer.com/article/10.1007/s00530-024-01525-3), Yujian Zhao, Chengru Wu, Yinong Xu, Xuanzheng Du, Ruiyu Li, **Guanglin Niu**(Corresponding Author).
+- ![Neurocomputing 2024](https://img.shields.io/badge/Neurocomputing_2024-00369F) [Real-time object tracking via self-adaptive appearance modeling](https://www.sciencedirect.com/science/article/abs/pii/S092523121930548X?via%3Dihub), Ming Xin, Jin Zheng, Bo Li, **Guanglin Niu**, Miaohui Zhang.
 
   
-## ![GPT](https://img.shields.io/badge/GPT-%2300A67E?style=flat-square&logo=OpenAI&logoColor=white) Large Language Model
+## ![](https://img.shields.io/badge/-%2300A67E?style=flat-square&logo=OpenAI&logoColor=white) Large Language Model
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/tablebench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -207,5 +207,9 @@ Liqun Yang, Jian Yang, Chaoren Wei, **Guanglin Niu**, Ge Zhang, Yunli Wang, et a
 </div>
 
 
-## Others
-- ``AST 2018`` [Spacecraft Attitude Fault-Tolerant Control Based on Iterative Learning Observer and Control Allocation](https://www.sciencedirect.com/science/article/abs/pii/S1270963817314906), Qinglei Hu, **Guanglin Niu**, Chenliang Wang
+## 🌐 Others
+- ![AST 2018](https://img.shields.io/badge/AST_2018-00369F) [Spacecraft Attitude Fault-Tolerant Control Based on Iterative Learning Observer and Control Allocation](https://www.sciencedirect.com/science/article/abs/pii/S1270963817314906), Qinglei Hu, **Guanglin Niu**, Chenliang Wang <strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:7PzlFSSx8tAC'></span></strong>
+- ![ISA Transactions 2017](https://img.shields.io/badge/ISA_Transactions_2017-00369F) [Attitude Output Feedback Control for Rigid Spacecraft with Finite-Time Convergence](https://www.sciencedirect.com/science/article/abs/pii/S0019057817305074), Qinglei Hu, **Guanglin Niu**
+- ![AST Transactions 2019](https://img.shields.io/badge/AST_2019-00369F) [Observer-Based Fault Tolerant Control and Experimental Verification for Rigid Spacecraft](https://www.sciencedirect.com/science/article/abs/pii/S1270963819308740), Qinglei Hu, Xinxin Zhang, **Guanglin Niu**
+- ![CCC 2017](https://img.shields.io/badge/CCC_2017-00369F) [Iterative Disturbance Observer Design for Spacecraft Fault-Tolerant Control with Actuator Failure](https://ieeexplore.ieee.org/document/8028864), **Guanglin Niu**, Qinglei Hu, Lei Guo
+- ![CCC 2016](https://img.shields.io/badge/CCC_2016-00369F) [Robust Finite-Time Observer Design for Rigid Spacecraft with Reaction Wheel Friction](https://ieeexplore.ieee.org/document/7555050), **Guanglin Niu**, Qinglei Hu
