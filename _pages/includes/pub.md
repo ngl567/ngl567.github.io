@@ -150,7 +150,7 @@ _2025 IEEE International Conference on Acoustics, Speech, and Signal Processing 
 - ![Multimedia Systems 2024](https://img.shields.io/badge/Multimedia_Systems_2024-00369F) [Hierarchical bi-directional conceptual interaction for text-video retrieval](https://link.springer.com/article/10.1007/s00530-024-01525-3), Wenpeng Han, **Guanglin Niu**, Mingliang Zhou, Xiaowei Zhang.
 - ![IEEE Signal Processing Letters 2024](https://img.shields.io/badge/IEEE_Signal_Processing_Letters_2024-00369F) [Geometry-Guided Point Generation for 3D Object Detection](https://link.springer.com/article/10.1007/s00530-024-01525-3), Kai Wang, Mingliang Zhou, Qing Lin, **Guanglin Niu**, Xiaowei Zhang.
 - ![Arxiv 2024](https://img.shields.io/badge/Arxiv_2024-00369F) [CCUP: A Controllable Synthetic Data Generation Pipeline for Pretraining Cloth-Changing Person Re-Identification Models](https://link.springer.com/article/10.1007/s00530-024-01525-3), Yujian Zhao, Chengru Wu, Yinong Xu, Xuanzheng Du, Ruiyu Li, **Guanglin Niu**(Corresponding Author).
-- ![Neurocomputing 2024](https://img.shields.io/badge/Neurocomputing_2024-00369F) [Real-time object tracking via self-adaptive appearance modeling](https://www.sciencedirect.com/science/article/abs/pii/S092523121930548X?via%3Dihub), Ming Xin, Jin Zheng, Bo Li, **Guanglin Niu**, Miaohui Zhang.
+- ![Neurocomputing 2019](https://img.shields.io/badge/Neurocomputing_2019-00369F) [Real-time object tracking via self-adaptive appearance modeling](https://www.sciencedirect.com/science/article/abs/pii/S092523121930548X?via%3Dihub), Ming Xin, Jin Zheng, Bo Li, **Guanglin Niu**, Miaohui Zhang.
 
   
 ## ![](https://img.shields.io/badge/-%2300A67E?style=flat-square&logo=OpenAI&logoColor=white) Large Language Model
