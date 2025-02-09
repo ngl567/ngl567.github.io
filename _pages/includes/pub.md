@@ -1,14 +1,11 @@
 
 # 📝 Publications 
 ## 🤖 Knowledge Graph
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025</div><img src='images/dhns.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Diffusion-based Hierarchical Negative Sampling for Multimodal Knowledge Graph Completion](https://arxiv.org/abs/2501.15393) \\
-**Guanglin Niu**, Xiaowei Zhang
-
+**Guanglin Niu**, Xiaowei Zhang \\
 _The 30th International Conference on Database Systems for Advanced Applications (DASFAA), 2025_
 
 - DHNS is the first to leverage the diffusion model’s capabilities within the context of multi-modal knowledge graph for negative sampling.
@@ -22,8 +19,7 @@ _The 30th International Conference on Database Systems for Advanced Applications
 <div class='paper-box-text' markdown="1">
 
 [Logic and Commonsense-Guided Temporal Knowledge Graph Completion](https://ojs.aaai.org/index.php/AAAI/article/view/25579) \\
-**Guanglin Niu**, Bo Li
-
+**Guanglin Niu**, Bo Li \\
 _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023_
 
   - This work LCGE is the first to introduce temporal rules into temporal knowledge graph completion models.
@@ -39,8 +35,7 @@ _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023_
 <div class='paper-box-text' markdown="1">
 
 [CAKE: A Scalable Commonsense-Aware Framework For Multi-View Knowledge Graph Completion](https://aclanthology.org/2022.acl-long.205) <strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:3fE2CSJIrl8C'></span></strong> \\
-**Guanglin Niu**, Bo Li, Yongfei Zhang, Shiliang Pu
-
+**Guanglin Niu**, Bo Li, Yongfei Zhang, Shiliang Pu \\
 _Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (ACL), 2022_
 
   - This work CAKE is the first to propose a scalable knowledge graph completion framework to predict entities in a joint commonsense and fact-driven fashion.
@@ -56,8 +51,7 @@ _Proceedings of the 60th Annual Meeting of the Association for Computational Lin
 <div class='paper-box-text' markdown="1">
 
 [Relational Learning with Gated and Attentive Neighbor Aggregator for Few-Shot Knowledge Graph Completion](https://dl.acm.org/doi/10.1145/3404835.3462925) <strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:WF5omc3nYNoC'></span></strong> \\
-**Guanglin Niu**, Yang Li, Chengguang Tang, Ruiying Geng, Jian Dai, Qiao Liu, Hao Wang, Jian Sun, Fei Huang, Luo Si
-
+**Guanglin Niu**, Yang Li, Chengguang Tang, Ruiying Geng, Jian Dai, Qiao Liu, Hao Wang, Jian Sun, Fei Huang, Luo Si \\
 _Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2021_
 
   - This approach GANA is the first to propose a gated and attentive neighbor aggregator to capture the most valuable contextual semantics of a relation.
@@ -74,8 +68,7 @@ _Proceedings of the 44th International ACM SIGIR Conference on Research and Deve
 
 [Rule-Guided Compositional Representation Learning on Knowledge Graphs](https://ojs.aaai.org//index.php/AAAI/article/view/5687)
 <strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:IjCSPb-OGe4C'></span></strong> \\
-**Guanglin Niu**, Yongfei Zhang, Bo Li, Peng Cui, Si Liu, Jingyang Li and Xiaowei Zhang
-
+**Guanglin Niu**, Yongfei Zhang, Bo Li, Peng Cui, Si Liu, Jingyang Li and Xiaowei Zhang \\
 _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020_
 
   - This work RPJE is the first attempt to integrate logic rules with paths for KG embedding, balancing the explainability and the generalization.
@@ -91,8 +84,7 @@ _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020_
 
 [AutoETER: Automated Entity Type Representation with Relation-Aware Attention for Knowledge Graph Embedding](https://www.aclweb.org/anthology/2020.findings-emnlp.105/)
 <strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:IjCSPb-OGe4C'></span></strong> \\
-**Guanglin Niu**, Yongfei Zhang, Bo Li, Shiliang Pu and Jingyang Li
-
+**Guanglin Niu**, Yongfei Zhang, Bo Li, Shiliang Pu and Jingyang Li \\
 _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: Findings (EMNLP Findings), 2020_
 
   - This work is the first to automatically learn the embeddings of entity types to enrich the general features of entities without explicit type information.
@@ -107,8 +99,7 @@ _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Pro
 <div class='paper-box-text' markdown="1">
 
 [Perform like an Engine: A Closed-Loop Neural-Symbolic Learning Framework for Knowledge Graph Inference](https://aclanthology.org/2022.coling-1.119/)\\
-**Guanglin Niu**, Bo Li, Yongfei Zhang, Shiliang Pu
-
+**Guanglin Niu**, Bo Li, Yongfei Zhang, Shiliang Pu \\
 _Proceedings of the 29th International Conference on Computational Linguistics (COLING), 2022_
 
   - EngineKG performs like a four-stroke engine in a closed-loop neural-symbolic learning framework with embedding-based rule learning and rule-enhanced knowledge graph embedding. 
@@ -128,13 +119,11 @@ _Proceedings of the 29th International Conference on Computational Linguistics (
 
 
 ## 🖼️ Computer Vision
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/camel.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CAMEL: CAusal Motion Enhancement tailored for Lifting Text-driven Video Editing](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_CAMEL_CAusal_Motion_Enhancement_Tailored_for_Lifting_Text-driven_Video_Editing_CVPR_2024_paper.html) \\
-Guiwei Zhang, Tianyu Zhang, **Guanglin Niu**(Corresponding Author), Zichang Tan, Yalong Bai, Qing Yang
-
+Guiwei Zhang, Tianyu Zhang, **Guanglin Niu**(Corresponding Author), Zichang Tan, Yalong Bai, Qing Yang \\
 _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024_
 
 - DHNS develops a causal motion-enhanced attention mechanism to enhance the motion coherence of latent representations while preserving content generalization to creative textual scenarios.
@@ -148,8 +137,7 @@ _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogniti
 <div class='paper-box-text' markdown="1">
 
 [Identity-aware Feature Decoupling Learning for Clothing-change Person Re-identification](https://arxiv.org/pdf/2501.05851) \\
-Guiwei Zhang, Tianyu Zhang, **Guanglin Niu**(Corresponding Author), Zichang Tan, Yalong Bai, Qing Yang
-
+Guiwei Zhang, Tianyu Zhang, **Guanglin Niu**(Corresponding Author), Zichang Tan, Yalong Bai, Qing Yang \\
 _2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025_
 
 - IFD is the first to propose a dual-stream identity-attention model that effectively compels the network to focus comprehensively on the regions containing distinctive identity information.
@@ -166,12 +154,11 @@ _2025 IEEE International Conference on Acoustics, Speech, and Signal Processing 
 
   
 ## ![](https://img.shields.io/badge/-%2300A67E?style=flat-square&logo=OpenAI&logoColor=white) Large Language Model
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/tablebench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Tablebench: A comprehensive and complex benchmark for table question answering](https://arxiv.org/pdf/2408.09174) \\
-Xianjie Wu, Jian Yang, Linzheng Chai, Ge Zhang, Jiaheng Liu, Xinrun Du, Di Liang, Daixin Shu, Xianfu Cheng, Tianzhen Sun, **Guanglin Niu**, Tongliang Li, Zhoujun Li 
+Xianjie Wu, Jian Yang, Linzheng Chai, Ge Zhang, Jiaheng Liu, Xinrun Du, Di Liang, Daixin Shu, Xianfu Cheng, Tianzhen Sun, **Guanglin Niu**, Tongliang Li, Zhoujun Li \\
 _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2025_
 
 - TableBench is a human-annotated comprehensive and complex TableQA benchmark comprising 886 samples across 18 fields, designed to facilitate fact-checking, numerical reasoning, data analysis, and visualization tasks.
@@ -193,6 +180,7 @@ Shukai Liu, Linzheng Chai, Jian Yang, Jiajun Shi, He Zhu, Liran Wang, Ke Jin, We
 📃[**Paper**](https://arxiv.org/pdf/2411.02310)     [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Datasets)](https://huggingface.co/datasets/Multilingual-Multimodal-NLP/MDEVAL)
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/fuzzcoder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
