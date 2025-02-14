@@ -83,7 +83,7 @@ _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020_
 <div class='paper-box-text' markdown="1">
 
 [AutoETER: Automated Entity Type Representation with Relation-Aware Attention for Knowledge Graph Embedding](https://www.aclweb.org/anthology/2020.findings-emnlp.105/)
-<strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:IjCSPb-OGe4C'></span></strong> \\
+<strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:YsMSGLbcyi4C'></span></strong> \\
 **Guanglin Niu**, Yongfei Zhang, Bo Li, Shiliang Pu and Jingyang Li \\
 _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: Findings (EMNLP Findings), 2020_
 
@@ -126,7 +126,7 @@ _Proceedings of the 29th International Conference on Computational Linguistics (
 Guiwei Zhang, Tianyu Zhang, **Guanglin Niu**(Corresponding Author), Zichang Tan, Yalong Bai, Qing Yang \\
 _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024_
 
-- DHNS develops a causal motion-enhanced attention mechanism to enhance the motion coherence of latent representations while preserving content generalization to creative textual scenarios.
+- CAMEL develops a causal motion-enhanced attention mechanism to enhance the motion coherence of latent representations while preserving content generalization to creative textual scenarios.
 
 📃[**Paper**](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_CAMEL_CAusal_Motion_Enhancement_Tailored_for_Lifting_Text-driven_Video_Editing_CVPR_2024_paper.pdf)     💾[**Code**](https://github.com/zhangguiwei610/CAMEL) ![img](https://img.shields.io/github/stars/zhangguiwei610/CAMEL?style=social)
 </div>
@@ -137,7 +137,7 @@ _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogniti
 <div class='paper-box-text' markdown="1">
 
 [Identity-aware Feature Decoupling Learning for Clothing-change Person Re-identification](https://arxiv.org/pdf/2501.05851) \\
-Guiwei Zhang, Tianyu Zhang, **Guanglin Niu**(Corresponding Author), Zichang Tan, Yalong Bai, Qing Yang \\
+Haoxuan Xu, Bo Li, **Guanglin Niu**(Corresponding Author) \\
 _2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025_
 
 - IFD is the first to propose a dual-stream identity-attention model that effectively compels the network to focus comprehensively on the regions containing distinctive identity information.
@@ -148,7 +148,7 @@ _2025 IEEE International Conference on Acoustics, Speech, and Signal Processing 
 
 
 - ![Multimedia Systems 2024](https://img.shields.io/badge/Multimedia_Systems_2024-00369F) [Hierarchical bi-directional conceptual interaction for text-video retrieval](https://link.springer.com/article/10.1007/s00530-024-01525-3), Wenpeng Han, **Guanglin Niu**, Mingliang Zhou, Xiaowei Zhang.
-- ![IEEE Signal Processing Letters 2024](https://img.shields.io/badge/IEEE_Signal_Processing_Letters_2024-00369F) [Geometry-Guided Point Generation for 3D Object Detection](https://link.springer.com/article/10.1007/s00530-024-01525-3), Kai Wang, Mingliang Zhou, Qing Lin, **Guanglin Niu**, Xiaowei Zhang.
+- ![IEEE Signal Processing Letters 2024](https://img.shields.io/badge/IEEE_Signal_Processing_Letters_2024-00369F) [Geometry-Guided Point Generation for 3D Object Detection](https://ieeexplore.ieee.org/abstract/document/10758765), Kai Wang, Mingliang Zhou, Qing Lin, **Guanglin Niu**, Xiaowei Zhang.
 - ![Arxiv 2024](https://img.shields.io/badge/Arxiv_2024-00369F) [CCUP: A Controllable Synthetic Data Generation Pipeline for Pretraining Cloth-Changing Person Re-Identification Models](https://link.springer.com/article/10.1007/s00530-024-01525-3), Yujian Zhao, Chengru Wu, Yinong Xu, Xuanzheng Du, Ruiyu Li, **Guanglin Niu**(Corresponding Author).
 - ![Neurocomputing 2019](https://img.shields.io/badge/Neurocomputing_2019-00369F) [Real-time object tracking via self-adaptive appearance modeling](https://www.sciencedirect.com/science/article/abs/pii/S092523121930548X?via%3Dihub), Ming Xin, Jin Zheng, Bo Li, **Guanglin Niu**, Miaohui Zhang.
 
