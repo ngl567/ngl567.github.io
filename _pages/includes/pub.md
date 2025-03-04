@@ -119,6 +119,21 @@ _Proceedings of the 29th International Conference on Computational Linguistics (
 
 
 ## 🖼️ Computer Vision
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/pose2id.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[From Poses to Identity: Training-Free Person Re-Identification via Feature Centralization](https://arxiv.org/pdf/2503.00938) \\
+Chao Yuan, Guiwei Zhang, Changxiao Ma, Tianyi Zhang, **Guanglin Niu**(Corresponding Author) \\
+_Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025_
+
+- Pose2ID is a Training-Free Feature Centralization framework that can be directly applied to different ReID tasks and models, even an ImageNet pre-trained model without ReID training.
+- The developed Identity-Guided Pedestrian Generation paradigm leverages identity features to generate high-quality images of the same identity in different poses to achieve feature centralization.
+
+📃[**Paper**](https://arxiv.org/pdf/2503.00938)     💾[**Code**](https://github.com/yuanc3/Pose2ID) ![img](https://img.shields.io/github/stars/yuanc3/Pose2ID?style=social)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/camel.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
