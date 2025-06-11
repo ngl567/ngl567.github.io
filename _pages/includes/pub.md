@@ -1,6 +1,22 @@
-
 # 📝 Publications 
 ## ![](https://img.shields.io/badge/-%23FF6600?style=flat-square&logo=GraphQL&logoColor=white) Knowledge Graph
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv 2025</div><img src='images/kgrsurvey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[A Survey of Task-Oriented Knowledge Graph Reasoning: Status, Applications, and Prospects](https://doi.org/10.36227/techrxiv.174961563.32605293/v1) \\
+**Guanglin Niu**, Bo Li, Yangguang Lin \\
+_TechRxiv, 2025_
+
+- This survey provides a more comprehensive perspective on the research of Knowledge Graph Reasoning (KGR) by categorizing approaches based on primary reasoning tasks, downstream application tasks, and potential challenging reasoning tasks.
+- We explore advanced techniques, such as large language models, and their impact on KGR. 
+- This work aims to highlight key research trends and outline promising future directions in the field of KGR.
+
+📃[**Paper**](https://d197for5662m48.cloudfront.net/documents/publicationstatus/262958/preprint_pdf/361339cc37c54ce7330118a82176ff95.pdf)     🔧[**Project**](https://github.com/ngl567/KGR-Survey) ![img](https://img.shields.io/github/stars/ngl567/KGR-Survey?style=social)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2025</div><img src='images/dhns.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -122,14 +138,14 @@ _Proceedings of the 29th International Conference on Computational Linguistics (
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/pose2id.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[From Poses to Identity: Training-Free Person Re-Identification via Feature Centralization](https://arxiv.org/pdf/2503.00938) \\
+[From Poses to Identity: Training-Free Person Re-Identification via Feature Centralization](https://openaccess.thecvf.com/content/CVPR2025/html/Yuan_From_Poses_to_Identity_Training-Free_Person_Re-Identification_via_Feature_Centralization_CVPR_2025_paper.html) \\
 Chao Yuan, Guiwei Zhang, Changxiao Ma, Tianyi Zhang, **Guanglin Niu**(Corresponding Author) \\
 _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025_
 
 - Pose2ID is a Training-Free Feature Centralization framework that can be directly applied to different ReID tasks and models, even an ImageNet pre-trained model without ReID training.
 - The developed Identity-Guided Pedestrian Generation paradigm leverages identity features to generate high-quality images of the same identity in different poses to achieve feature centralization.
 
-📃[**Paper**](https://arxiv.org/pdf/2503.00938)     💾[**Code**](https://github.com/yuanc3/Pose2ID) ![img](https://img.shields.io/github/stars/yuanc3/Pose2ID?style=social)
+📃[**Paper**](https://openaccess.thecvf.com/content/CVPR2025/papers/Yuan_From_Poses_to_Identity_Training-Free_Person_Re-Identification_via_Feature_Centralization_CVPR_2025_paper.pdf)     💾[**Code**](https://github.com/yuanc3/Pose2ID) ![img](https://img.shields.io/github/stars/yuanc3/Pose2ID?style=social)
 </div>
 </div>
 
@@ -162,7 +178,21 @@ _2025 IEEE International Conference on Acoustics, Speech, and Signal Processing 
 </div>
 
 
-- ![ICME 2025](https://img.shields.io/badge/ICME_2025-00369F) [CCUP: A Controllable Synthetic Data Generation Pipeline for Pretraining Cloth-Changing Person Re-Identification Models](https://arxiv.org/abs/2410.13567), Yujian Zhao, Chengru Wu, Yinong Xu, Xuanzheng Du, Ruiyu Li, **Guanglin Niu**(Corresponding Author).
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='images/ccup.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CCUP: A Controllable Synthetic Data Generation Pipeline for Pretraining Cloth-Changing Person Re-Identification Models](https://arxiv.org/abs/2410.13567) \\
+Yujian Zhao, Chengru Wu, Yinong Xu, Xuanzheng Du, Ruiyu Li, **Guanglin Niu**(Corresponding Author) \\
+_IEEE International Conference on Multimedia & Expo (ICME), 2025_
+
+- CCUP is a high-quality synthetic Cloth Changing Re-Identification (CC-ReID) dataset generated via a low-cost and controllable data generation pipeline, which is the first large-scale (over 1,000,000 images) dataset for the CC-ReID task.
+
+📃[**Paper**](https://arxiv.org/abs/2410.13567)     💾[**Code**](https://github.com/yjzhao1019/CCUP)
+</div>
+</div>
+
+
+- ![CVPR Workshop 2025](https://img.shields.io/badge/CVPR_2025_Workshop-00369F) [Neighbor-Based Feature and Index Enhancement for Person Re-Identification](https://arxiv.org/abs/2504.11798), Chao Yuan, Tianyi Zhang, **Guanglin Niu**(Corresponding Author).
 - ![ICME 2025](https://img.shields.io/badge/ICME_2025-00369F) [Knowledge Distilled Group Prompts Learning for HOI Detection with Large Vision-Language Models](https://arxiv.org/abs/2410.13567), Xiaoqian Han, **Guanglin Niu**, Mingliang Zhou, Xiaowei Zhang.
 - ![Multimedia Systems 2024](https://img.shields.io/badge/Multimedia_Systems_2024-00369F) [Hierarchical bi-directional conceptual interaction for text-video retrieval](https://link.springer.com/article/10.1007/s00530-024-01525-3), Wenpeng Han, **Guanglin Niu**, Mingliang Zhou, Xiaowei Zhang.
 - ![IEEE Signal Processing Letters 2024](https://img.shields.io/badge/IEEE_Signal_Processing_Letters_2024-00369F) [Geometry-Guided Point Generation for 3D Object Detection](https://ieeexplore.ieee.org/abstract/document/10758765), Kai Wang, Mingliang Zhou, Qing Lin, **Guanglin Niu**, Xiaowei Zhang.
@@ -180,7 +210,7 @@ _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2025_
 - TableBench is a human-annotated comprehensive and complex TableQA benchmark comprising 886 samples across 18 fields, designed to facilitate fact-checking, numerical reasoning, data analysis, and visualization tasks.
 - Our work is promoted by several media and forums, such as [AINLP](https://mp.weixin.qq.com/s/U9y5ncIcqS1Gt0S8Lx6ohw)
 
-[**Project**](https://tablebench.github.io//)     📃[**Paper**](https://arxiv.org/pdf/2408.09174)     💾[**Code**](https://github.com/TableBench/TableBench) ![img](https://img.shields.io/github/stars/TableBench/TableBench?style=social)
+🔧[**Project**](https://tablebench.github.io//)     📃[**Paper**](https://arxiv.org/pdf/2408.09174)     💾[**Code**](https://github.com/TableBench/TableBench) ![img](https://img.shields.io/github/stars/TableBench/TableBench?style=social)
 </div>
 </div>
 
