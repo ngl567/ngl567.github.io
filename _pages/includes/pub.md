@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv 2025</div><img src='images/kgrsurvey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[A Survey of Task-Oriented Knowledge Graph Reasoning: Status, Applications, and Prospects](https://doi.org/10.36227/techrxiv.174961563.32605293/v1) \\
+[A Survey of Task-Oriented Knowledge Graph Reasoning: Status, Applications, and Prospects](https://arxiv.org/abs/2506.11012) \\
 **Guanglin Niu**, Bo Li, Yangguang Lin \\
 _TechRxiv, 2025_
 
@@ -12,7 +12,7 @@ _TechRxiv, 2025_
 - We explore advanced techniques, such as large language models, and their impact on KGR. 
 - This work aims to highlight key research trends and outline promising future directions in the field of KGR.
 
-📃[**Paper**](https://d197for5662m48.cloudfront.net/documents/publicationstatus/262958/preprint_pdf/361339cc37c54ce7330118a82176ff95.pdf)     🔧[**Project**](https://github.com/ngl567/KGR-Survey) ![img](https://img.shields.io/github/stars/ngl567/KGR-Survey?style=social)
+📃[**Paper**](https://arxiv.org/pdf/2506.11012)     🔧[**Project**](https://github.com/ngl567/KGR-Survey) ![img](https://img.shields.io/github/stars/ngl567/KGR-Survey?style=social)
 </div>
 </div>
 
