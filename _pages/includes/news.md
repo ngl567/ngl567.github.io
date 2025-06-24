@@ -1,7 +1,8 @@
 # 🔥 News
+- *2025.06*: 🎉 One paper is accepted to [IEEE Transactions on Big Data](https://arxiv.org/abs/2410.04488).
 - *2025.06*: 🎉 One paper of Knowledge Graph Reasoning Survey is released on [Techrxiv](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174961563.32605293/v1) and [Arxiv](https://arxiv.org/abs/2506.11012)
-- *2025.04*: 🎉 One paper is accepted to CVPR Workshop 2025 ([DMON-ARO](https://arxiv.org/abs/2504.11798))
-- *2025.03*: 🎉 Two papers are accepted to ICME 2025 ([CCUP](https://arxiv.org/abs/2410.13567))
+- *2025.04*: 🎉 One paper is accepted to CVPR 2025 Workshop ([DMON-ARO](https://arxiv.org/abs/2504.11798))
+- *2025.03*: 🎉 Two papers are accepted to ICME 2025 oral ([CCUP](https://arxiv.org/abs/2410.13567))
 - *2025.02*: 🎉 One paper is accepted to CVPR 2025 ([Pose2ID](https://arxiv.org/abs/2503.00938))
 - *2025.01*: 🎉 One paper is accepted to DASFAA 2025 Oral ([DHNS](https://arxiv.org/abs/2501.15393))
 - *2024.12*: 🎉 One paper is accepted to ICASSP 2025 ([IFD](https://arxiv.org/abs/2501.05851))
