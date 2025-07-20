@@ -1,16 +1,16 @@
 # 📝 Publications 
 ## ![](https://img.shields.io/badge/-%23FF6600?style=flat-square&logo=GraphQL&logoColor=white) Knowledge Graph
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv 2025</div><img src='images/kgrsurvey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/kgrsurvey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [A Survey of Task-Oriented Knowledge Graph Reasoning: Status, Applications, and Prospects](https://arxiv.org/abs/2506.11012) \\
 **Guanglin Niu**, Bo Li, Yangguang Lin \\
-_TechRxiv, 2025_
+_Arxiv, 2025_
 
-- This survey provides a more comprehensive perspective on the research of Knowledge Graph Reasoning (KGR) by categorizing approaches based on primary reasoning tasks, downstream application tasks, and potential challenging reasoning tasks.
+- This survey aims to highlight key research trends and outline promising future directions of Knowledge Graph Reasoning (KGR) from the perspective of primary reasoning tasks, downstream applications, and challenging tasks.
 - We explore advanced techniques, such as large language models, and their impact on KGR. 
-- This work aims to highlight key research trends and outline promising future directions in the field of KGR.
+- Our work is promoted by some media, such as [人工智能遇上知识图谱](https://mp.weixin.qq.com/s/0hdBi_BC_WzmnZJrWHDqGQ).
 
 📃[**Paper**](https://arxiv.org/pdf/2506.11012)     🔧[**Project**](https://github.com/ngl567/KGR-Survey) ![img](https://img.shields.io/github/stars/ngl567/KGR-Survey?style=social)
 </div>
@@ -126,9 +126,9 @@ _Proceedings of the 29th International Conference on Computational Linguistics (
 </div>
 
 
+- ![IEEE Transactions on Big Data 2025](https://img.shields.io/badge/IEEE_TBD_2025-00369F?style=flat) [A Pluggable Common Sense-Enhanced Framework for Knowledge Graph Completion](https://arxiv.org/pdf/2410.04488), **Guanglin Niu**, Bo Li, Siling Feng.
 - ![计算机科学 2024](https://img.shields.io/badge/计算机科学_2024-00369F?style=flat&logo=计算机科学) [面向关系特性建模的知识图谱表示学习研究综述](https://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=22673), **Guanglin Niu**, Zhen Lin.
 - ![Arxiv 2024](https://img.shields.io/badge/Arxiv_2024-00369F?style=flat) [Knowledge Graph Embeddings: A Comprehensive Survey on Capturing Relation Properties](https://arxiv.org/pdf/2410.14733), **Guanglin Niu**. This paper is a modified English version of our article already published in Computer Science journal (in Chinese), released to facilitate communication among international researchers in the relevant fields.
-- ![Arxiv 2024](https://img.shields.io/badge/Arxiv_2024-00369F?style=flat) [A Pluggable Common Sense-Enhanced Framework for Knowledge Graph Completion](https://arxiv.org/pdf/2410.04488), **Guanglin Niu**, Bo Li, Siling Feng, et al.
 - ![Neurocomputing 2022](https://img.shields.io/badge/Neurocomputing_2022-00369F?style=flat) [Joint Semantics and Data-Driven Path Representation for Knowledge Graph Reasoning](https://www.sciencedirect.com/science/article/abs/pii/S0925231222001515), **Guanglin Niu**, Bo Li, Yongfei Zhang, et al.
 - ![ACL 2022](https://img.shields.io/badge/ACL_2021-00369F?style=flat) [Entity Concept Enhanced Few-Shot Relation Extraction](https://aclanthology.org/2021.acl-short.124/), Shan Yang, Yongfei Zhang, **Guanglin Niu**, et al. <strong><span class='show_paper_citations' data='ibL7gEcAAAAJ:ufrVoPGSRksC'></span></strong> \| [![](https://img.shields.io/github/stars/LittleGuoKe/ConceptFERE?style=social&label=Code+Stars)](https://github.com/LittleGuoKe/ConceptFERE)
 - ![Arxiv 2021](https://img.shields.io/badge/Arxiv_2021-00369F?style=flat) [Path-Enhanced Multi-Relational Question Answering with Knowledge Graph Embeddings](https://arxiv.org/pdf/2110.15622.pdf), **Guanglin Niu**, Yang Li, Chengguang Tang, et al.
@@ -146,6 +146,21 @@ _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogniti
 - The developed Identity-Guided Pedestrian Generation paradigm leverages identity features to generate high-quality images of the same identity in different poses to achieve feature centralization.
 
 📃[**Paper**](https://openaccess.thecvf.com/content/CVPR2025/papers/Yuan_From_Poses_to_Identity_Training-Free_Person_Re-Identification_via_Feature_Centralization_CVPR_2025_paper.pdf)     💾[**Code**](https://github.com/yuanc3/Pose2ID) ![img](https://img.shields.io/github/stars/yuanc3/Pose2ID?style=social)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/hsgl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Try Harder: Hard Sample Generation and Learning for Clothes-Changing Person Re-ID](https://arxiv.org/abs/2507.11119) \\
+Hankun Liu, Yujian Zhao, **Guanglin Niu**(Corresponding Author) \\
+_Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM), 2025_
+
+- HSGL is a novel multimodal-guided Hard Sample Generation and Learning framework, which is the first effort to unify textual and visual modalities to explicitly define, generate, and optimize hard samples within a unified paradigm.
+- We propose a hardness-aware optimization strategy that adjusts feature distances based on textual semantic labels, encouraging the separation of hard positives and drawing hard negatives closer in the embedding space to enhance the model's discriminative capability and robustness to hard samples.
+
+📃[**Paper**](https://arxiv.org/pdf/2507.11119)     💾[**Code**](https://github.com/undooo/TryHarder-ACMMM25) ![img](https://img.shields.io/github/stars/undooo/TryHarder-ACMMM25?style=social)
 </div>
 </div>
 
