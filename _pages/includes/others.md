@@ -12,6 +12,8 @@
 - *2019.12*, Rule-Guided Compositional Representation Learning on Knowledge Graphs, Alibaba Group \| [\[video\]](https://developer.aliyun.com/live/1856)
 
 # 🌐 Media Report
+- [北航团队全面梳理知识图谱推理技术，为实际业务场景落地带来指导](https://mp.weixin.qq.com/s/0C1MGu171uXKlV_7W-3s4Q), 麻省理工科技评论
+- [北航教授牛广林发布知识图谱推理综述，助力大模型时代](https://www.sohu.com/a/920423280_122256621), 搜狐
 - [常识和事实联合驱动的知识图谱推理框架](https://mp.weixin.qq.com/s/xQ625k_2kYXerZtO6M8mGg), AI Time
 - [近期必读的六篇 EMNLP 2020【知识图谱】相关论文和代码](https://mp.weixin.qq.com/s/bU6Y42250GLmXiRzi8N1Wg), 专知
 - [CAKE：一个用于多视图知识图谱补全的可扩展性常识感知框架](https://mp.weixin.qq.com/s/1wVS2aJd6ddyPkvZHx3Lrw), 专知 \| 智源社区 \| 开放知识图谱
