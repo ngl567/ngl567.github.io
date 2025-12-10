@@ -10,7 +10,7 @@ _Arxiv, 2025_
 
 - This survey aims to highlight key research trends and outline promising future directions of Knowledge Graph Reasoning (KGR) from the perspective of primary reasoning tasks, downstream applications, and challenging tasks.
 - We explore advanced techniques, such as large language models, and their impact on KGR. 
-- Our work is promoted by some media, such as [人工智能遇上知识图谱](https://mp.weixin.qq.com/s/0hdBi_BC_WzmnZJrWHDqGQ).
+- Our work is promoted by some media, such as [麻省理工科技评论](https://mp.weixin.qq.com/s/0C1MGu171uXKlV_7W-3s4Q)、[搜狐](https://www.sohu.com/a/920423280_122256621)、[人工智能遇上知识图谱](https://mp.weixin.qq.com/s/0hdBi_BC_WzmnZJrWHDqGQ).
 
 📃[**Paper**](https://arxiv.org/pdf/2506.11012)     🔧[**Project**](https://github.com/ngl567/KGR-Survey) ![img](https://img.shields.io/github/stars/ngl567/KGR-Survey?style=social)
 </div>
@@ -126,7 +126,7 @@ _Proceedings of the 29th International Conference on Computational Linguistics (
 </div>
 
 
-- ![IEEE Transactions on Big Data 2025](https://img.shields.io/badge/IEEE_TBD_2025-00369F?style=flat) [A Pluggable Common Sense-Enhanced Framework for Knowledge Graph Completion](https://arxiv.org/pdf/2410.04488), **Guanglin Niu**, Bo Li, Siling Feng.
+- ![IEEE Transactions on Big Data 2025](https://img.shields.io/badge/IEEE_TBD_2025-00369F?style=flat) [A Pluggable Common Sense-Enhanced Framework for Knowledge Graph Completion](https://ieeexplore.ieee.org/abstract/document/11078835), **Guanglin Niu**, Bo Li, Siling Feng.
 - ![计算机科学 2024](https://img.shields.io/badge/计算机科学_2024-00369F?style=flat&logo=计算机科学) [面向关系特性建模的知识图谱表示学习研究综述](https://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=22673), **Guanglin Niu**, Zhen Lin.
 - ![Arxiv 2024](https://img.shields.io/badge/Arxiv_2024-00369F?style=flat) [Knowledge Graph Embeddings: A Comprehensive Survey on Capturing Relation Properties](https://arxiv.org/pdf/2410.14733), **Guanglin Niu**. This paper is a modified English version of our article already published in Computer Science journal (in Chinese), released to facilitate communication among international researchers in the relevant fields.
 - ![Neurocomputing 2022](https://img.shields.io/badge/Neurocomputing_2022-00369F?style=flat) [Joint Semantics and Data-Driven Path Representation for Knowledge Graph Reasoning](https://www.sciencedirect.com/science/article/abs/pii/S0925231222001515), **Guanglin Niu**, Bo Li, Yongfei Zhang, et al.
@@ -153,7 +153,7 @@ _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogniti
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/hsgl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Try Harder: Hard Sample Generation and Learning for Clothes-Changing Person Re-ID](https://arxiv.org/abs/2507.11119) \\
+[Try Harder: Hard Sample Generation and Learning for Clothes-Changing Person Re-ID](https://dl.acm.org/doi/abs/10.1145/3746027.3755394) \\
 Hankun Liu, Yujian Zhao, **Guanglin Niu**(Corresponding Author) \\
 _Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM), 2025_
 
@@ -182,7 +182,7 @@ _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogniti
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/ifd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Identity-aware Feature Decoupling Learning for Clothing-change Person Re-identification](https://arxiv.org/pdf/2501.05851) \\
+[Identity-aware Feature Decoupling Learning for Clothing-change Person Re-identification](https://ieeexplore.ieee.org/abstract/document/10888292) \\
 Haoxuan Xu, Bo Li, **Guanglin Niu**(Corresponding Author) \\
 _2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025_
 
@@ -196,19 +196,19 @@ _2025 IEEE International Conference on Acoustics, Speech, and Signal Processing 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='images/ccup.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CCUP: A Controllable Synthetic Data Generation Pipeline for Pretraining Cloth-Changing Person Re-Identification Models](https://arxiv.org/abs/2410.13567) \\
+[CCUP: A Controllable Synthetic Data Generation Pipeline for Pretraining Cloth-Changing Person Re-Identification Models](https://ieeexplore.ieee.org/document/11209188) \\
 Yujian Zhao, Chengru Wu, Yinong Xu, Xuanzheng Du, Ruiyu Li, **Guanglin Niu**(Corresponding Author) \\
 _IEEE International Conference on Multimedia & Expo (ICME), 2025_
 
 - CCUP is a high-quality synthetic Cloth Changing Re-Identification (CC-ReID) dataset generated via a low-cost and controllable data generation pipeline, which is the first large-scale (over 1,000,000 images) dataset for the CC-ReID task.
 
-📃[**Paper**](https://arxiv.org/abs/2410.13567)     💾[**Code**](https://github.com/yjzhao1019/CCUP)
+📃[**Paper**](https://arxiv.org/pdf/2410.13567)     💾[**Code**](https://github.com/yjzhao1019/CCUP)
 </div>
 </div>
 
 
-- ![CVPR Workshop 2025](https://img.shields.io/badge/CVPR_2025_Workshop-00369F) [Neighbor-Based Feature and Index Enhancement for Person Re-Identification](https://arxiv.org/abs/2504.11798), Chao Yuan, Tianyi Zhang, **Guanglin Niu**(Corresponding Author).
-- ![ICME 2025](https://img.shields.io/badge/ICME_2025-00369F) [Knowledge Distilled Group Prompts Learning for HOI Detection with Large Vision-Language Models](https://arxiv.org/abs/2410.13567), Xiaoqian Han, **Guanglin Niu**, Mingliang Zhou, Xiaowei Zhang.
+- ![CVPR Workshop 2025](https://img.shields.io/badge/CVPR_2025_Workshop-00369F) [Neighbor-Based Feature and Index Enhancement for Person Re-Identification](https://openaccess.thecvf.com/content/CVPR2025W/ABAW/papers/Yuan_Neighbor-Based_Feature_and_Index_Enhancement_for_Person_Re-Identification_CVPRW_2025_paper.pdf), Chao Yuan, Tianyi Zhang, **Guanglin Niu**(Corresponding Author).
+- ![ICME 2025](https://img.shields.io/badge/ICME_2025-00369F) [Knowledge Distilled Group Prompts Learning for HOI Detection with Large Vision-Language Models](https://ieeexplore.ieee.org/document/11208960), Xiaoqian Han, **Guanglin Niu**, Mingliang Zhou, Xiaowei Zhang.
 - ![Multimedia Systems 2024](https://img.shields.io/badge/Multimedia_Systems_2024-00369F) [Hierarchical bi-directional conceptual interaction for text-video retrieval](https://link.springer.com/article/10.1007/s00530-024-01525-3), Wenpeng Han, **Guanglin Niu**, Mingliang Zhou, Xiaowei Zhang.
 - ![IEEE Signal Processing Letters 2024](https://img.shields.io/badge/IEEE_Signal_Processing_Letters_2024-00369F) [Geometry-Guided Point Generation for 3D Object Detection](https://ieeexplore.ieee.org/abstract/document/10758765), Kai Wang, Mingliang Zhou, Qing Lin, **Guanglin Niu**, Xiaowei Zhang.
 - ![Neurocomputing 2019](https://img.shields.io/badge/Neurocomputing_2019-00369F) [Real-time object tracking via self-adaptive appearance modeling](https://www.sciencedirect.com/science/article/abs/pii/S092523121930548X?via%3Dihub), Ming Xin, Jin Zheng, Bo Li, **Guanglin Niu**, Miaohui Zhang.
