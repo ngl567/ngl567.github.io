@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.12*: 🎉 One paper is accepted to Journal of Software (软件学报)
 - *2025.07*: 🎉 One paper is accepted to ACM MM 2025 ([HSAL](https://arxiv.org/abs/2507.11119))
 - *2025.06*: 🎉 One paper is accepted to [IEEE Transactions on Big Data](https://ieeexplore.ieee.org/abstract/document/11078835)
 - *2025.06*: 🎉 One paper of Knowledge Graph Reasoning Survey is released on [Techrxiv](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174961563.32605293/v1) and [Arxiv](https://arxiv.org/abs/2506.11012)
