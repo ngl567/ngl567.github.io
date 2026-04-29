@@ -1,5 +1,6 @@
 # 🔥 News
 - *2026.04*: 🎉 Two papers of Diffusion/LLM for Knowledge Graph Reasoning are released on Arxiv ([RADD](https://arxiv.org/abs/2604.25693) and [KGT](https://arxiv.org/abs/2602.22698))
+- *2026.04*: 🎉 One paper of Code LLM is accepted to ACL Findings ([MdEval](https://arxiv.org/abs/2411.02310))
 - *2026.02*: 🎉 Two papers are accepted to CVPR 2026 ([MOS](https://arxiv.org/abs/2512.03404) and [BIT](https://arxiv.org/abs/2603.14243))
 - *2026.02*: 🎉 One paper is accepted to [IEEE Transactions on Big Data](https://ieeexplore.ieee.org/abstract/document/11415651)
 - *2026.01*: 🎉 The paper [Top 10 Frontier Challenges in Computer Image and Graphics](https://www.cjig.cn/zh/article/doi/10.11834/jig.2600001/) is published on the Journal of Image and Graphics (图像图形领域十大前沿科技问题，图像图形学报)
