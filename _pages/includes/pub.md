@@ -126,6 +126,7 @@ _Proceedings of the 29th International Conference on Computational Linguistics (
 </div>
 
 
+- ![IEEE Transactions on Big Data 2026](https://img.shields.io/badge/IEEE_TBD_2026-00369F?style=flat) [A Comprehensive Survey of Knowledge Graph Reasoning: Approaches and Applications](https://ieeexplore.ieee.org/abstract/document/11415651), **Guanglin Niu**, Bo Li, Yangguang Lin.
 - ![IEEE Transactions on Big Data 2025](https://img.shields.io/badge/IEEE_TBD_2025-00369F?style=flat) [A Pluggable Common Sense-Enhanced Framework for Knowledge Graph Completion](https://ieeexplore.ieee.org/abstract/document/11078835), **Guanglin Niu**, Bo Li, Siling Feng.
 - ![计算机科学 2024](https://img.shields.io/badge/计算机科学_2024-00369F?style=flat&logo=计算机科学) [面向关系特性建模的知识图谱表示学习研究综述](https://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=22673), **Guanglin Niu**, Zhen Lin.
 - ![Arxiv 2024](https://img.shields.io/badge/Arxiv_2024-00369F?style=flat) [Knowledge Graph Embeddings: A Comprehensive Survey on Capturing Relation Properties](https://arxiv.org/pdf/2410.14733), **Guanglin Niu**. This paper is a modified English version of our article already published in Computer Science journal (in Chinese), released to facilitate communication among international researchers in the relevant fields.
@@ -135,6 +136,21 @@ _Proceedings of the 29th International Conference on Computational Linguistics (
 
 
 ## 🖼️ Computer Vision
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/bit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[BIT: Matching-based Bi-directional Interaction Transformation Network for Visible-Infrared Person Re-Identification](https://arxiv.org/abs/2603.14243) \\
+Haoxuan Xu, **Guanglin Niu**(Corresponding Author) \\
+_Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026_
+
+- Instead of relying on rigid feature alignment, BIT exploits a matching-based strategy that explicitly models the interaction between visible and infrared image pairs.
+- To our best knowledge, BIT is the first to introduce such pairwise matching-driven interaction in VI-ReID.
+
+📃[**Paper**](https://arxiv.org/pdf/2603.14243)     💾[**Code**](https://github.com/Xuan266/BIT)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/pose2id.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -207,8 +223,8 @@ _IEEE International Conference on Multimedia & Expo (ICME), 2025_
 </div>
 
 
+- ![CVPR 2026](https://img.shields.io/badge/CVPR_2026-00369F) [MOS: Mitigating Optical-SAR Modality Gap for Cross-Modal Ship Re-Identification](https://arxiv.org/pdf/2512.03404), Yujian Zhao, Hankun Liu, **Guanglin Niu**(Corresponding Author).
 - ![Arxiv 2025](https://img.shields.io/badge/Arxiv_2025-00369F) [Looking Alike From Far to Near: Enhancing Cross-Resolution Re-Identification via Feature Vector Panning](https://arxiv.org/pdf/2510.00936), Zanwu Liu, Chao Yuan, Bo Li, Xiaowei Zhang, **Guanglin Niu**(Corresponding Author).
-- ![Arxiv 2025](https://img.shields.io/badge/Arxiv_2025-00369F) [MOS: Mitigating Optical-SAR Modality Gap for Cross-Modal Ship Re-Identification](https://arxiv.org/pdf/2512.03404), Yujian Zhao, Hankun Liu, **Guanglin Niu**(Corresponding Author).
 - ![Arxiv 2025](https://img.shields.io/badge/Arxiv_2025-00369F) [Modality-Transition Representation Learning for Visible-Infrared Person Re-Identification](https://arxiv.org/pdf/2511.02685), Chao Yuan, Zanwu Liu, Guiwei Zhang, Haoxuan Xu, Yujian Zhao, **Guanglin Niu**(Corresponding Author).
 - ![Applied Soft Computing 2026](https://img.shields.io/badge/Applied_Soft_Computing_2026-00369F) [Soft-Label Guided Multi-Granularity Prompts Learning for Human-Object Interaction Detection](https://doi.org/10.1016/j.asoc.2026.114765), Xiaoqian Han, Xiaowei Zhang, Guanglin Niu, Mingliang Zhou, Zhenkuan Pan.
 - ![CVPR Workshop 2025](https://img.shields.io/badge/CVPR_2025_Workshop-00369F) [Neighbor-Based Feature and Index Enhancement for Person Re-Identification](https://openaccess.thecvf.com/content/CVPR2025W/ABAW/papers/Yuan_Neighbor-Based_Feature_and_Index_Enhancement_for_Person_Re-Identification_CVPRW_2025_paper.pdf), Chao Yuan, Tianyi Zhang, **Guanglin Niu**(Corresponding Author).
@@ -229,12 +245,12 @@ _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2025_
 - TableBench is a human-annotated comprehensive and complex TableQA benchmark comprising 886 samples across 18 fields, designed to facilitate fact-checking, numerical reasoning, data analysis, and visualization tasks.
 - Our work is promoted by several media and forums, such as [AINLP](https://mp.weixin.qq.com/s/U9y5ncIcqS1Gt0S8Lx6ohw)
 
-🔧[**Project**](https://tablebench.github.io//)     📃[**Paper**](https://arxiv.org/pdf/2408.09174)     💾[**Code**](https://github.com/TableBench/TableBench) ![img](https://img.shields.io/github/stars/TableBench/TableBench?style=social)
+🔧[**Project**](https://tablebench.github.io/)     📃[**Paper**](https://arxiv.org/pdf/2408.09174)     💾[**Code**](https://github.com/TableBench/TableBench) ![img](https://img.shields.io/github/stars/TableBench/TableBench?style=social)
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/mdeval.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Findings 2026</div><img src='images/mdeval.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MdEval: Massively Multilingual Code Debugging](https://arxiv.org/abs/2411.02310) \\
@@ -256,6 +272,20 @@ Liqun Yang, Jian Yang, Chaoren Wei, **Guanglin Niu**, Ge Zhang, Yunli Wang, et a
 - FuzzCoder formulates the fuzzing test as a sequenceto-sequence paradigm and then introduce the generation model to attack vulnerable positions by selecting proper mutation positions and strategies.
 
 📃[**Paper**](https://arxiv.org/pdf/2409.01944)     💾[**Code**](https://github.com/weimo3221/FUZZ-CODER) ![img](https://img.shields.io/github/stars/weimo3221/FUZZ-CODER?style=social)
+</div>
+</div>
+
+
+div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/ifevalcode.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Ifevalcode: Controlled code generationl](https://arxiv.org/abs/2507.22462) \\
+Jian Yang, Wei Zhang, Shukai Liu, Linzheng Chai, Yingshui Tan, Jiaheng Liu, Ge Zhang, Wangchunshu Zhou, **Guanglin Niu**(Corresponding Author), Zhoujun Li, Binyuan Hui, Junyang Lin
+
+- IFEvalCode is a multilingual benchmark comprising 1.6K test samples across seven programming languages (Python, Java, JavaScript, TypeScript, Shell, C++, and C#), with each sample featuring both Chinese and English queries.
+- Unlike existing benchmarks, IFEvalCode decouples evaluation into two metrics: correctness and instruction-following, enabling a more nuanced assessment.
+
+🔧[**Project**](https://ifevalcode.github.io/)     📃[**Paper**](https://arxiv.org/pdf/2507.22462?)     💾[**Code**](https://github.com/CSJianYang/IFEvalCode)
 </div>
 </div>
 
