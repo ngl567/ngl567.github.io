@@ -276,7 +276,7 @@ Liqun Yang, Jian Yang, Chaoren Wei, **Guanglin Niu**, Ge Zhang, Yunli Wang, et a
 </div>
 
 
-div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/ifevalcode.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/ifevalcode.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Ifevalcode: Controlled code generationl](https://arxiv.org/abs/2507.22462) \\
