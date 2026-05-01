@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.05*: 🎉 One paper is accepted to ICML 2026
 - *2026.04*: 🎉 Two papers of Diffusion/LLM for Knowledge Graph Reasoning are released on Arxiv ([RADD](https://arxiv.org/abs/2604.25693) and [KGT](https://arxiv.org/abs/2602.22698))
 - *2026.04*: 🎉 One paper of Code LLM is accepted to ACL Findings ([MdEval](https://arxiv.org/abs/2411.02310))
 - *2026.02*: 🎉 Two papers are accepted to CVPR 2026 ([MOS](https://arxiv.org/abs/2512.03404) and [BIT](https://arxiv.org/abs/2603.14243))
