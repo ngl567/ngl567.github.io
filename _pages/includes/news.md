@@ -1,12 +1,13 @@
 # 🔥 News
-- *2026.05*: 🎉 One paper is accepted to ICML 2026
+- *2026.06*: 🎉 One paper is accepted to ECCV 2026
+- *2026.05*: 🎉 One paper is accepted to ICML 2026 ([VPFA](https://arxiv.org/abs/2510.00936))
 - *2026.04*: 🎉 Two papers of Diffusion/LLM for Knowledge Graph Reasoning are released on Arxiv ([RADD](https://arxiv.org/abs/2604.25693) and [KGT](https://arxiv.org/abs/2602.22698))
 - *2026.04*: 🎉 One paper of Code LLM is accepted to ACL Findings ([MdEval](https://arxiv.org/abs/2411.02310))
-- *2026.02*: 🎉 Two papers are accepted to CVPR 2026 ([MOS](https://arxiv.org/abs/2512.03404) and [BIT](https://arxiv.org/abs/2603.14243))
+- *2026.02*: 🎉 Two papers are accepted to CVPR 2026 ([MOS](https://openaccess.thecvf.com/content/CVPR2026/html/Zhao_MOS_Mitigating_Optical-SAR_Modality_Gap_for_Cross-Modal_Ship_Re-Identification_CVPR_2026_paper.html) and [BIT](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_BIT_Matching-based_Bi-directional_Interaction_Transformation_Network_for_Visible-Infrared_Person_Re-Identification_CVPR_2026_paper.html))
 - *2026.02*: 🎉 One paper is accepted to [IEEE Transactions on Big Data](https://ieeexplore.ieee.org/abstract/document/11415651)
 - *2026.01*: 🎉 The paper [Top 10 Frontier Challenges in Computer Image and Graphics](https://www.cjig.cn/zh/article/doi/10.11834/jig.2600001/) is published on the Journal of Image and Graphics (图像图形领域十大前沿科技问题，图像图形学报)
 - *2025.12*: 🎉 One paper is accepted to Journal of Software (软件学报)
-- *2025.11*: 🎉 One paper is accepted to AAAI 2026
+- *2025.11*: 🎉 One paper is accepted to AAAI 2026 ([SAM2-OV](https://ojs.aaai.org/index.php/AAAI/article/view/37301))
 - *2025.07*: 🎉 One paper is accepted to ACM MM 2025 ([HSAL](https://arxiv.org/abs/2507.11119))
 - *2025.06*: 🎉 One paper is accepted to [IEEE Transactions on Big Data](https://ieeexplore.ieee.org/abstract/document/11078835)
 - *2025.06*: 🎉 One paper of Knowledge Graph Reasoning Survey is released on [Techrxiv](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174961563.32605293/v1) and [Arxiv](https://arxiv.org/abs/2506.11012)
